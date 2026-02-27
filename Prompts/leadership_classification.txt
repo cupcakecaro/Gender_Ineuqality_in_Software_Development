@@ -1,0 +1,12 @@
+leadership yes:
+"lead",
+"team lead",
+"manager",
+"head",
+"director",
+"vp",
+"vice president",
+"cto",
+"chief",
+"principal"
+leadership no: else
