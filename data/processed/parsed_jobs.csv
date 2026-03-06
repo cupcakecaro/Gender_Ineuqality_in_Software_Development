@@ -1,0 +1,33 @@
+profile_id,country,position_in_career,position_from_recent,job_title,company,start_year,start_month,end_year,end_month,duration_months,is_current,seniority_hint,raw_date_line
+001,romania,6,1,Senior LMS Technical Consultant,Oracle,2019,1,,,86,True,senior,Jan 2019 - Present · 7 yrs 2 mosJan 2019 to Present · 7 yrs 2 mos
+001,romania,5,2,Senior Technical Support Engineer,Oracle Romania,2017,5,,,106,True,senior,May 2017 - Present · 8 yrs 10 mos
+001,romania,4,3,Bucuresti,TEAMNET INTERNATIONAL SA,2015,4,,,131,True,unknown,"Apr 2015 - Present · 10 yrs 11 mos,"
+001,romania,3,4,Technical reviewer,Teamnet International,2014,3,2015,3,13,False,unknown,Mar 2014 - Mar 2015 · 1 yr 1 mo
+001,romania,2,5,Senior Accounting Technician,Ciel Romania,2005,3,2014,2,108,False,senior,Mar 2005 - Feb 2014 · 9 yrs
+001,romania,1,6,Inginer proiectant,I.N.M.A.,2003,9,2005,3,19,False,unknown,Sep 2003 - Mar 2005 · 1 yr 7 mosSep 2003 to Mar 2005 · 1 yr 7 mos
+002,romania,3,1,Service Operations Expert,Orange,2023,7,,,32,True,unknown,Jul 2023 - Present · 2 yrs 8 mosJul 2023 to Present · 2 yrs 8 mos
+002,romania,2,2,Core Network Engineer,Orange Services,2017,4,2023,7,76,False,mid,Apr 2017 - Jul 2023 · 6 yrs 4 mosApr 2017 to Jul 2023 · 6 yrs 4 mos
+002,romania,1,3,Network Supervision Engineer,Orange Romania,2013,,2017,3,51,False,mid,2013 - Mar 2017 · 4 yrs 3 mos2013 to Mar 2017 · 4 yrs 3 mos
+003,sweden,3,1,Software Engineer,Flightloop,2024,12,,,15,True,mid,Dec 2024 - Present · 1 yr 3 mos
+003,sweden,2,2,Software Developer,Scorebuzzer,2023,7,2024,11,17,False,mid,Jul 2023 - Nov 2024 · 1 yr 5 mosJul 2023 to Nov 2024 · 1 yr 5 mos
+003,sweden,1,3,Software Engineer Internship,iLabs,2022,12,2023,6,7,False,mid,Dec 2022 - Jun 2023 · 7 mosDec 2022 to Jun 2023 · 7 mos
+004,sweden,14,1,Master Thesis Researcher,Deep Forestry,2026,1,,,2,True,unknown,Jan 2026 - Present · 2 mosJan 2026 to Present · 2 mos
+004,sweden,13,2,Co-founder and Chief Innovation Officer,Tree++ (Tree Plus Plus),2024,10,,,17,True,c_level,Oct 2024 - Present · 1 yr 5 mosOct 2024 to Present · 1 yr 5 mos
+004,sweden,12,3,IT Analyst and DevOps Engineer,BRB - Bank of Brasília,2014,12,,,135,True,mid,Dec 2014 - Present · 11 yrs 3 mosDec 2014 to Present · 11 yrs 3 mos
+004,sweden,11,4,IT Manager,BRB - Bank of Brasília,2016,5,2024,7,99,False,manager,May 2016 - Jul 2024 · 8 yrs 3 mosMay 2016 to Jul 2024 · 8 yrs 3 mos
+004,sweden,10,5,Student Ambassador,Drivhuset Stockholm,2025,7,,,8,True,junior,Jul 2025 - Present · 8 mosJul 2025 to Present · 8 mos
+004,sweden,9,6,Team Leader,SU Heroes - Hackathon Team,2024,11,,,16,True,unknown,Nov 2024 - Present · 1 yr 4 mosNov 2024 to Present · 1 yr 4 mos
+004,sweden,8,7,Marketing Communications Manager,Alla Ska Få Mat,2024,10,,,17,True,manager,Oct 2024 - Present · 1 yr 5 mosOct 2024 to Present · 1 yr 5 mos
+004,sweden,7,8,Research Engineer,LabRisk,2024,8,,,19,True,mid,Aug 2024 - Present · 1 yr 7 mosAug 2024 to Present · 1 yr 7 mos
+004,sweden,6,9,Marketing Communications Manager,DevOpsDays Brasília,2024,2,,,25,True,manager,Feb 2024 - Present · 2 yrs 1 moFeb 2024 to Present · 2 yrs 1 mo
+004,sweden,5,10,Teaching Assistant,Stockholm University,2025,10,2026,1,4,False,unknown,Oct 2025 - Jan 2026 · 4 mosOct 2025 to Jan 2026 · 4 mos
+004,sweden,4,11,Research Engineer,IBICT - Brazilian Institute of Information in Science and Technology,2022,4,2022,9,6,False,mid,Apr 2022 - Sep 2022 · 6 mosApr 2022 to Sep 2022 · 6 mos
+004,sweden,3,12,Software Engineer,Ministério da Integração e do Desenvolvimento Regional,2014,2,2014,11,10,False,mid,Feb 2014 - Nov 2014 · 10 mosFeb 2014 to Nov 2014 · 10 mos
+004,sweden,2,13,Web Developer and Designer,SENAI/DF - Serviço Nacional de Aprendizagem Industrial,2011,5,2012,11,19,False,mid,May 2011 - Nov 2012 · 1 yr 7 mosMay 2011 to Nov 2012 · 1 yr 7 mos
+004,sweden,1,14,Internship,,2010,8,2011,5,10,False,unknown,Aug 2010 - May 2011 · 10 mos
+005,sweden,6,1,Founding Product Designer,UI Bakery,2019,7,,,80,True,mid,Jul 2019 - Present · 6 yrs 8 mosJul 2019 to Present · 6 yrs 8 mos
+005,sweden,5,2,Low-code and Webflow developer,UI Bakery,2022,8,2025,11,40,False,mid,Aug 2022 - Nov 2025 · 3 yrs 4 mosAug 2022 to Nov 2025 · 3 yrs 4 mos
+005,sweden,4,3,Product Designer,Akveo,2019,7,2022,1,31,False,mid,Jul 2019 - Jan 2022 · 2 yrs 7 mosJul 2019 to Jan 2022 · 2 yrs 7 mos
+005,sweden,3,4,Senior UX/UI Designer,,2018,2,2019,9,20,False,senior,Feb 2018 - Sep 2019 · 1 yr 8 mosFeb 2018 to Sep 2019 · 1 yr 8 mos
+005,sweden,2,5,UX/UI Designer,EffectiveSoft Corporation,2016,4,2018,2,23,False,mid,Apr 2016 - Feb 2018 · 1 yr 11 mos
+005,sweden,1,6,web-designer,,2015,1,2016,4,16,False,mid,Jan 2015 - Apr 2016 · 1 yr 4 mos
