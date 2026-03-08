@@ -1,0 +1,33 @@
+profile_id,job_title,country,start_date,end_date,company,position_in_career
+1,Senior LMS Technical Consultant,Romania,2019-01,,Oracle,1
+1,Senior Technical Support Engineer,Romania,2017-05,,Oracle Romania,2
+1,Testing Analyst,Romania,2015-04,,TEAMNET INTERNATIONAL SA,3
+1,Technical reviewer,Romania,2014-03,2015-03,Teamnet International,4
+1,Senior Accounting Technician,Romania,2005-03,2014-02,Ciel Romania,5
+1,Inginer proiectant,Romania,2003-09,2005-03,I.N.M.A.,6
+2,Service Operations Expert,romania,2023-07,,Orange,1
+2,Core Network Engineer,romania,2017-04,2023-07,Orange Services,2
+2,Network Supervision Engineer,romania,2013,2017-03,Orange Romania,3
+3,Software Engineer,sweden,2024-12,,Flightloop,1
+3,Software Developer,sweden,2023-07,2024-11,Scorebuzzer,2
+3,Remote Software Engineer Internship,sweden,2022-12,2023-06,iLabs,3
+4,Master Thesis Researcher,sweden,2026-01,,Deep Forestry,1
+4,Co-founder and Chief Innovation Officer,sweden,2024-10,,Tree++ (Tree Plus Plus),2
+4,IT Analyst and DevOps Engineer,sweden,2014-12,,BRB - Bank of Brasília,3
+4,IT Manager,sweden,2016-05,2024-07,BRB - Bank of Brasília,4
+4,Student Ambassador,sweden,2025-07,,Drivhuset Stockholm,5
+4,Team Leader,sweden,2024-11,,SU Heroes - Hackathon Team,6
+4,Marketing Communications Manager,sweden,2024-10,,Alla Ska Få Mat,7
+4,Research Engineer,sweden,2024-08,,LabRisk,8
+4,Marketing Communications Manager,sweden,2024-02,,DevOpsDays Brasília,9
+4,Teaching Assistant,sweden,2025-10,2026-01,Stockholm University,10
+4,Research Engineer,sweden,2022-04,2022-09,IBICT - Brazilian Institute of Information in Science and Technology,11
+4,Software Engineer,sweden,2014-02,2014-11,Ministério da Integração e do Desenvolvimento Regional,12
+4,Web Developer and Designer,sweden,2011-05,2012-11,SENAI/DF - Serviço Nacional de Aprendizagem Industrial,13
+4,Internship,sweden,2010-08,2011-05,SENAI/DF - Serviço Nacional de Aprendizagem Industrial,14
+5,Founding Product Designer,sweden,2019-07,,UI Bakery,1
+5,Low-code and Webflow developer,sweden,2022-08,2025-11,Self-Employed,2
+5,Product Designer,sweden,2019-07,2022-01,Akveo,3
+5,Senior UX/UI Designer,sweden,2018-02,2019-09,,4
+5,UX/UI Designer,sweden,2016-04,2018-02,EffectiveSoft Corporation,5
+5,web-designer,sweden,2015-01,2016-04,freelance,6
