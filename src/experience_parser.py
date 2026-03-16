@@ -36,11 +36,13 @@ def main() -> None:
     print("\n── Sample output ──────────────────────────────────")
     display_cols = [
         "profile_id", "country", "position_in_career",
-        "job_title", "company", "employment_type",
+        "job_title", "company",
         "start_year", "end_year", "duration_months",
-        "is_current", "seniority_hint", "work_mode",
+        "is_current", "seniority_hint",
     ]
-    print(df_jobs[display_cols].to_string(index=False))
+    # Only include columns that exist in the dataframe
+    display_cols = [col for col in display_cols if col in df_jobs.columns]
+    print(df_jobs[display_cols].head(10).to_string(index=False))
 
 
 if __name__ == "__main__":

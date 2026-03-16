@@ -1,33 +1,67 @@
 profile_id,country,position_in_career,position_from_recent,job_title,company,start_year,start_month,end_year,end_month,duration_months,is_current,seniority_hint,raw_date_line
-001,romania,6,1,Senior LMS Technical Consultant,Oracle,2019,1,,,86,True,senior,Jan 2019 - Present · 7 yrs 2 mosJan 2019 to Present · 7 yrs 2 mos
-001,romania,5,2,Senior Technical Support Engineer,Oracle Romania,2017,5,,,106,True,senior,May 2017 - Present · 8 yrs 10 mos
-001,romania,4,3,Bucuresti,TEAMNET INTERNATIONAL SA,2015,4,,,131,True,unknown,"Apr 2015 - Present · 10 yrs 11 mos,"
-001,romania,3,4,Technical reviewer,Teamnet International,2014,3,2015,3,13,False,unknown,Mar 2014 - Mar 2015 · 1 yr 1 mo
-001,romania,2,5,Senior Accounting Technician,Ciel Romania,2005,3,2014,2,108,False,senior,Mar 2005 - Feb 2014 · 9 yrs
-001,romania,1,6,Inginer proiectant,I.N.M.A.,2003,9,2005,3,19,False,unknown,Sep 2003 - Mar 2005 · 1 yr 7 mosSep 2003 to Mar 2005 · 1 yr 7 mos
-002,romania,3,1,Service Operations Expert,Orange,2023,7,,,32,True,unknown,Jul 2023 - Present · 2 yrs 8 mosJul 2023 to Present · 2 yrs 8 mos
-002,romania,2,2,Core Network Engineer,Orange Services,2017,4,2023,7,76,False,mid,Apr 2017 - Jul 2023 · 6 yrs 4 mosApr 2017 to Jul 2023 · 6 yrs 4 mos
-002,romania,1,3,Network Supervision Engineer,Orange Romania,2013,,2017,3,51,False,mid,2013 - Mar 2017 · 4 yrs 3 mos2013 to Mar 2017 · 4 yrs 3 mos
-003,sweden,3,1,Software Engineer,Flightloop,2024,12,,,15,True,mid,Dec 2024 - Present · 1 yr 3 mos
-003,sweden,2,2,Software Developer,Scorebuzzer,2023,7,2024,11,17,False,mid,Jul 2023 - Nov 2024 · 1 yr 5 mosJul 2023 to Nov 2024 · 1 yr 5 mos
-003,sweden,1,3,Software Engineer Internship,iLabs,2022,12,2023,6,7,False,mid,Dec 2022 - Jun 2023 · 7 mosDec 2022 to Jun 2023 · 7 mos
-004,sweden,14,1,Master Thesis Researcher,Deep Forestry,2026,1,,,2,True,unknown,Jan 2026 - Present · 2 mosJan 2026 to Present · 2 mos
-004,sweden,13,2,Co-founder and Chief Innovation Officer,Tree++ (Tree Plus Plus),2024,10,,,17,True,c_level,Oct 2024 - Present · 1 yr 5 mosOct 2024 to Present · 1 yr 5 mos
-004,sweden,12,3,IT Analyst and DevOps Engineer,BRB - Bank of Brasília,2014,12,,,135,True,mid,Dec 2014 - Present · 11 yrs 3 mosDec 2014 to Present · 11 yrs 3 mos
-004,sweden,11,4,IT Manager,BRB - Bank of Brasília,2016,5,2024,7,99,False,manager,May 2016 - Jul 2024 · 8 yrs 3 mosMay 2016 to Jul 2024 · 8 yrs 3 mos
-004,sweden,10,5,Student Ambassador,Drivhuset Stockholm,2025,7,,,8,True,junior,Jul 2025 - Present · 8 mosJul 2025 to Present · 8 mos
-004,sweden,9,6,Team Leader,SU Heroes - Hackathon Team,2024,11,,,16,True,unknown,Nov 2024 - Present · 1 yr 4 mosNov 2024 to Present · 1 yr 4 mos
-004,sweden,8,7,Marketing Communications Manager,Alla Ska Få Mat,2024,10,,,17,True,manager,Oct 2024 - Present · 1 yr 5 mosOct 2024 to Present · 1 yr 5 mos
-004,sweden,7,8,Research Engineer,LabRisk,2024,8,,,19,True,mid,Aug 2024 - Present · 1 yr 7 mosAug 2024 to Present · 1 yr 7 mos
-004,sweden,6,9,Marketing Communications Manager,DevOpsDays Brasília,2024,2,,,25,True,manager,Feb 2024 - Present · 2 yrs 1 moFeb 2024 to Present · 2 yrs 1 mo
-004,sweden,5,10,Teaching Assistant,Stockholm University,2025,10,2026,1,4,False,unknown,Oct 2025 - Jan 2026 · 4 mosOct 2025 to Jan 2026 · 4 mos
-004,sweden,4,11,Research Engineer,IBICT - Brazilian Institute of Information in Science and Technology,2022,4,2022,9,6,False,mid,Apr 2022 - Sep 2022 · 6 mosApr 2022 to Sep 2022 · 6 mos
-004,sweden,3,12,Software Engineer,Ministério da Integração e do Desenvolvimento Regional,2014,2,2014,11,10,False,mid,Feb 2014 - Nov 2014 · 10 mosFeb 2014 to Nov 2014 · 10 mos
-004,sweden,2,13,Web Developer and Designer,SENAI/DF - Serviço Nacional de Aprendizagem Industrial,2011,5,2012,11,19,False,mid,May 2011 - Nov 2012 · 1 yr 7 mosMay 2011 to Nov 2012 · 1 yr 7 mos
-004,sweden,1,14,Internship,,2010,8,2011,5,10,False,unknown,Aug 2010 - May 2011 · 10 mos
-005,sweden,6,1,Founding Product Designer,UI Bakery,2019,7,,,80,True,mid,Jul 2019 - Present · 6 yrs 8 mosJul 2019 to Present · 6 yrs 8 mos
-005,sweden,5,2,Low-code and Webflow developer,UI Bakery,2022,8,2025,11,40,False,mid,Aug 2022 - Nov 2025 · 3 yrs 4 mosAug 2022 to Nov 2025 · 3 yrs 4 mos
-005,sweden,4,3,Product Designer,Akveo,2019,7,2022,1,31,False,mid,Jul 2019 - Jan 2022 · 2 yrs 7 mosJul 2019 to Jan 2022 · 2 yrs 7 mos
-005,sweden,3,4,Senior UX/UI Designer,,2018,2,2019,9,20,False,senior,Feb 2018 - Sep 2019 · 1 yr 8 mosFeb 2018 to Sep 2019 · 1 yr 8 mos
-005,sweden,2,5,UX/UI Designer,EffectiveSoft Corporation,2016,4,2018,2,23,False,mid,Apr 2016 - Feb 2018 · 1 yr 11 mos
-005,sweden,1,6,web-designer,,2015,1,2016,4,16,False,mid,Jan 2015 - Apr 2016 · 1 yr 4 mos
+1,Romania,5,1,Senior LMS Technical Consultant Oracle Full-timeOracle Full-time,,2019,1,,,86,True,senior,Jan 2019 - Present · 7 yrs 2 mosJan 2019 to Present · 7 yrs 2 mos
+1,Romania,4,2,,,2017,5,,,106,True,unknown,"Bucharest, Romania · Hybrid Senior Technical Support Engineer Oracle Romania May 2017 - Present · 8 yrs 10 mos"
+1,Romania,3,3,,,2015,4,,,131,True,unknown,"Bucuresti Testing Analyst TEAMNET INTERNATIONAL SATEAMNET INTERNATIONAL SA Apr 2015 - Present · 10 yrs 11 mos, Bucharest, Romania Technical reviewer Teamnet InternationalTeamnet International Mar 2014 - Mar 2015 · 1 yr 1 mo"
+1,Romania,2,4,,,2005,3,2014,2,108,False,unknown,"Bucharest, Romania Senior Accounting Technician Ciel RomaniaCiel Romania Mar 2005 - Feb 2014 · 9 yrs"
+1,Romania,1,5,,,2003,9,2005,3,19,False,unknown,"Bucharest, Romania Inginer proiectant I.N.M.A.I.N.M.A. Sep 2003 - Mar 2005 · 1 yr 7 mosSep 2003 to Mar 2005 · 1 yr 7 mos ""bucu"
+2,romania,3,1,Service Operations Expert,Orange,2023,7,,,32,True,unknown,Jul 2023 - Present · 2 yrs 8 mosJul 2023 to Present · 2 yrs 8 mos
+2,romania,2,2,Core Network Engineer,Services,2017,4,2023,7,76,False,mid,Apr 2017 - Jul 2023 · 6 yrs 4 mosApr 2017 to Jul 2023 · 6 yrs 4 mos
+2,romania,1,3,Network Supervision Engineer,Romania,2013,,2017,3,51,False,mid,"2013 - Mar 2017 · 4 yrs 3 mos2013 to Mar 2017 · 4 yrs 3 mos ""Bucharest, Romania"
+3,sweden,3,1,"Software Engineer"" Software Engineer Flightloop · Full-timeFlightloop · Full-time",,2024,12,,,15,True,mid,Dec 2024 - Present · 1 yr 3 mos
+3,sweden,2,2,Software Developer,,2023,7,2024,11,17,False,mid,ScorebuzzerScorebuzzer Jul 2023 - Nov 2024 · 1 yr 5 mosJul 2023 to Nov 2024 · 1 yr 5 mos
+3,sweden,1,3,,,2022,12,2023,6,7,False,unknown,"Dec 2022 - Jun 2023 · 7 mosDec 2022 to Jun 2023 · 7 mos ""Battaramulla, Western Province, Sri Lanka · On-siteBattaramulla, Western Province, Sri Lanka · On-site"
+4,sweden,15,1,"Master Thesis Researcher"" Master Thesis Researcher Deep Forestry · Part-timeDeep Forestry · Part-time",,2026,1,,,2,True,unknown,Jan 2026 - Present · 2 mosJan 2026 to Present · 2 mos
+4,sweden,14,2,,,2024,10,,,17,True,unknown,"Uppsala, Uppsala County, Sweden · Hybrid Co-founder and Chief Innovation Officer Tree++ (Tree Plus Plus)Tree++ (Tree Plus Plus) Oct 2024 - Present · 1 yr 5 mosOct 2024 to Present · 1 yr 5 mos"
+4,sweden,13,3,,,2014,12,,,135,True,unknown,"Estocolmo, Município de Stockholm, Suécia BRB - Bank of Brasília Full-time · 11 yrs 3 mosFull-time · 11 yrs 3 mos IT Analyst and DevOps Engineer IT Analyst and DevOps Engineer Dec 2014 - Present · 11 yrs 3 mosDec 2014 to Present · 11 yrs 3 mos"
+4,sweden,12,4,,,2014,12,,,135,True,unknown,"Brasília, Distrito Federal, Brazil BRB - Bank of Brasília Full-time · 11 yrs 3 mosFull-time · 11 yrs 3 mos IT Analyst and DevOps Engineer IT Analyst and DevOps Engineer Dec 2014 - Present · 11 yrs 3 mosDec 2014 to Present · 11 yrs 3 mos"
+4,sweden,11,5,,,2016,5,2024,7,99,False,unknown,"Brasília, Distrito Federal, BrazilBrasília, Distrito Federal, Brazil IT Manager May 2016 - Jul 2024 · 8 yrs 3 mosMay 2016 to Jul 2024 · 8 yrs 3 mos"
+4,sweden,10,6,,,2025,7,,,8,True,unknown,"Brasília, Federal District, Brazil · On-site Student Ambassador Drivhuset StockholmDrivhuset Stockholm Jul 2025 - Present · 8 mosJul 2025 to Present · 8 mos"
+4,sweden,9,7,,,2024,11,,,16,True,unknown,"Stockholm, Stockholm County, Sweden SU Heroes - Hackathon Team logo Team Leader SU Heroes - Hackathon TeamSU Heroes - Hackathon Team Nov 2024 - Present · 1 yr 4 mosNov 2024 to Present · 1 yr 4 mos"
+4,sweden,8,8,,,2024,10,,,17,True,unknown,"Stockholm, Stockholm County, Sweden Marketing Communications Manager Alla Ska Få MatAlla Ska Få Mat Oct 2024 - Present · 1 yr 5 mosOct 2024 to Present · 1 yr 5 mos"
+4,sweden,7,9,,,2024,8,,,19,True,unknown,"Stockholm, Stockholm County, Sweden Research Engineer LabRiskLabRisk Aug 2024 - Present · 1 yr 7 mosAug 2024 to Present · 1 yr 7 mos"
+4,sweden,6,10,,,2024,2,,,25,True,unknown,"Brasília, Federal District, Brazil Marketing Communications Manager DevOpsDays BrasíliaDevOpsDays Brasília Feb 2024 - Present · 2 yrs 1 moFeb 2024 to Present · 2 yrs 1 mo"
+4,sweden,5,11,,,2025,10,2026,1,4,False,unknown,"Brasília, Federal District, Brazil Teaching Assistant Stockholm UniversityStockholm University Oct 2025 - Jan 2026 · 4 mosOct 2025 to Jan 2026 · 4 mos"
+4,sweden,4,12,"Stockholm, Stockholm County, Sweden Research Engineer IBICT - Brazilian Institute of Information in Science and Technology · Part-timeIBICT - Brazilian Institute of Information in Science and Technology · Part-time",,2022,4,2022,9,6,False,mid,Apr 2022 - Sep 2022 · 6 mosApr 2022 to Sep 2022 · 6 mos
+4,sweden,3,13,Software Engineer,Ministério da Integração e do Desenvolvimento Regional,2014,2,2014,11,10,False,mid,Feb 2014 - Nov 2014 · 10 mosFeb 2014 to Nov 2014 · 10 mos
+4,sweden,2,14,"Brasília, Distrito Federal, Brazil · On-sit SENAI/DF - Serviço Nacional de Aprendizagem Industrial SENAI/DF - Serviço Nacional de Aprendizagem Industrial 2 yrs 4 mos2 yrs 4 mos",,2011,5,2012,11,19,False,unknown,May 2011 - Nov 2012 · 1 yr 7 mosMay 2011 to Nov 2012 · 1 yr 7 mos
+4,sweden,1,15,,,2010,8,2011,5,10,False,unknown,"Internship ""Aug 2010 - May 2011 · 10 mos"
+5,sweden,4,1,,,2019,7,,,80,True,unknown,"Founding Product Designer"" UI BakeryUI Bakery Jul 2019 - Present · 6 yrs 8 mosJul 2019 to Present · 6 yrs 8 mos"
+5,sweden,3,2,,,2022,8,2025,11,40,False,unknown,Low-code and Webflow developer Self-EmployedSelf-Employed Aug 2022 - Nov 2025 · 3 yrs 4 mosAug 2022 to Nov 2025 · 3 yrs 4 mos
+5,sweden,2,3,,,2019,7,2022,1,31,False,unknown,Product Designer Jul 2019 - Jan 2022 · 2 yrs 7 mosJul 2019 to Jan 2022 · 2 yrs 7 mos
+5,sweden,1,4,,,2018,2,2019,9,20,False,unknown,"Senior UX/UI Designer Feb 2018 - Sep 2019 · 1 yr 8 mosFeb 2018 to Sep 2019 · 1 yr 8 mos UX/UI Designer EffectiveSoft CorporationEffectiveSoft Corporation Apr 2016 - Feb 2018 · 1 yr 11 mos web-designer freelancefreelance""Jan 2015 - Apr 2016 · 1 yr 4 mos"
+6,romania,3,1,,,2006,2,,,242,True,unknown,"Operations Manager"" Operations Manager ORPAK RomaniaORPAK Romania Feb 2006 - Present · 20 yrs 2 mosFeb 2006 to Present · 20 yrs 2 mos"
+6,romania,2,2,,,2001,,2003,,24,False,unknown,Programmer Eurosoft CommunicationEurosoft Communication 2001 - 2003 · 2 yrs2001 to 2003 · 2 yrs
+6,romania,1,3,,,2001,,2003,,24,False,unknown,"Programmer Programmer GFS CommunicationsGFS Communications ""2001 - 2003 · 2 yrs"
+7,romania,2,1,"Software Engineer"" Software Engineer Deutsche Bank · Full-timeDeutsche Bank · Full-time",,2022,7,,,45,True,mid,Jul 2022 - Present · 3 yrs 9 mosJul 2022 to Present · 3 yrs 9 mos
+7,romania,1,2,,,2020,8,2021,1,6,False,unknown,"Bucharest, Romania · HybridBucharest, Romania · Hybrid AIESEC in Romania logo Team Member of Incoming Internships Team Member of Incoming Internships AIESEC in RomaniaAIESEC in Romania Aug 2020 - Jan 2021 · 6 mosAug 2020 to Jan 2021 · 6 mos ""Bucharest, Romania"
+8,Romania,3,1,Technical Solutions Specialist at Orange Romania Communications Orange · Full-time,,2022,3,,,49,True,mid,Mar 2022 - Present · 4 yrs 1 moMar 2022 to Present · 4 yrs 1 mo
+8,Romania,2,2,,,2007,10,2022,3,174,False,unknown,"Bucharest, RomaniaBucharest, Romania Telekom Romania Mobile logo Technical Solutions Specialist Telekom RomaniaTelekom Romania Oct 2007 - Mar 2022 · 14 yrs 6 mosOct 2007 to Mar 2022 · 14 yrs 6 mos"
+8,Romania,1,3,,,1997,11,2007,10,120,False,unknown,"Customer Service Specialist RomtelecomRomtelecom ""Nov 1997 - Oct 2007 · 10 yrs"
+9,romania,4,1,Application Expert Dr. Max Romania · Full-timeDr. Max Romania · Full-time,,2024,10,,,18,True,unknown,Oct 2024 - Present · 1 yr 6 mosOct 2024 to Present · 1 yr 6 mos
+9,romania,3,2,,,2018,8,2025,3,80,False,unknown,"Bucharest, Romania · HybridBucharest, Romania · Hybrid Application Expert High Tech Systems& Software SRLHigh Tech Systems& Software SRL Aug 2018 - Mar 2025 · 6 yrs 8 mosAug 2018 to Mar 2025 · 6 yrs 8 mos"
+9,romania,2,3,,,2008,2,2018,8,127,False,unknown,"Bucharest, RomaniaBucharest, Romania MASTER COMPUTERS SRL logo Tehncian service IT MASTER COMPUTERS SRLMASTER COMPUTERS SRL Feb 2008 - Aug 2018 · 10 yrs 7 mosFeb 2008 to Aug 2018 · 10 yrs 7 mos"
+9,romania,1,4,,,2006,4,2008,2,23,False,unknown,"Bucharest, RomaniaBucharest, Romania Mobexpert logo IT Technician, Sales consultant Mobexpert Apr 2006 - Feb 2008 · 1 yr 11 mosApr 2006 to Feb 2008 · 1 yr 11 mos ""Bucharest, Bucharest, Romania"
+10,romania,4,1,Technical Project Manager Acrelec Software (Romania) · Full-timeAcrelec Software (Romania) · Full-time,,2020,11,,,65,True,manager,Nov 2020 - Present · 5 yrs 5 mosNov 2020 to Present · 5 yrs 5 mos
+10,romania,3,2,,,2019,9,2020,11,15,False,unknown,"Bucharest, RomaniaBucharest, Romania Jira Service Desk Technical Engineer Microsoft Sep 2019 - Nov 2020 · 1 yr 3 mosSep 2019 to Nov 2020 · 1 yr 3 mos"
+10,romania,2,3,,,2018,7,2018,10,4,False,unknown,Bucharest Metropolitan Area Technical Engineer Intern Microsoft Jul 2018 - Oct 2018 · 4 mosJul 2018 to Oct 2018 · 4 mos
+10,romania,1,4,,,2018,3,2018,6,4,False,unknown,"Bucharest, Bucharest, RomaniaDeutsche Bank logo Software Developer Intern Deutsche Bank Mar 2018 - Jun 2018 · 4 mosMar 2018 to Jun 2018 · 4 mos ""Bucharest, Bucharest, Romania"
+11,romania,4,1,ING Hubs Romania Full-time · 6 yrs 9 mosFull-time · 6 yrs 9 mos,,2025,2,,,14,True,unknown,Chapter Lead Feb 2025 - Present · 1 yr 2 mosFeb 2025 to Present · 1 yr 2 mos
+11,romania,3,2,,,2019,7,2025,2,68,False,unknown,"Bucharest, Romania · HybridBucharest, Romania · Hybrid Software Engineer Jul 2019 - Feb 2025 · 5 yrs 8 mosJul 2019 to Feb 2025 · 5 yrs 8 mos"
+11,romania,2,3,"Romania Kotlin Facultatea de Automatică și Calculatoare, Undergraduate Teaching Assistant Facultatea de Automatică și Calculatoare, UPB · SeasonalFacultatea de Automatică și Calculatoare, UPB · Seasonal",,2019,2,2023,6,53,False,unknown,Feb 2019 - Jun 2023 · 4 yrs 5 mosFeb 2019 to Jun 2023 · 4 yrs 5 mos
+11,romania,1,4,Programming ParadigmsProgramming Paradigms ING Hubs Romania logo Software Engineer ING Tech Romania · InternshipING Tech Romania · Internship,,2018,7,2019,1,7,False,mid,"Jul 2018 - Jan 2019 · 7 mosJul 2018 to Jan 2019 · 7 mos ""Romania"
+12,romania,10,1,Chief Executive Officer Full-time,SII Romania 12 yrs 5 mos,2024,3,,,25,True,c_level,Mar 2024 - Present · 2 yrs 1 moMar 2024 to Present · 2 yrs 1 mo
+12,romania,9,2,,,2017,9,2024,3,79,False,unknown,Sep 2017 - Mar 2024 · 6 yrs 7 mosSep 2017 to Mar 2024 · 6 yrs 7 mos
+12,romania,8,3,,,2014,1,2024,3,123,False,unknown,"Bucharest, Bucharest, RomaniaBucharest, Bucharest, Romania Business Unit Manager Jan 2014 - Mar 2024 · 10 yrs 3 mosJan 2014 to Mar 2024 · 10 yrs 3 mos"
+12,romania,7,4,,,2013,11,2014,1,3,False,unknown,Project Manager and team leader Nov 2013 - Jan 2014 · 3 mosNov 2013 to Jan 2014 · 3 mos
+12,romania,6,5,TotalSoft 6 yrs 3 mos6 yrs 3 mos,,2011,1,2013,11,35,False,unknown,Implementation Team Manager Jan 2011 - Nov 2013 · 2 yrs 11 mosJan 2011 to Nov 2013 · 2 yrs 11 mos
+12,romania,5,6,,,2011,1,2013,11,35,False,unknown,Project Manager and team leader Jan 2011 - Nov 2013 · 2 yrs 11 mosJan 2011 to Nov 2013 · 2 yrs 11 mos
+12,romania,4,7,,,2011,1,2013,3,27,False,unknown,Senior Technical and Business Consultant Jan 2011 - Mar 2013 · 2 yrs 3 mosJan 2011 to Mar 2013 · 2 yrs 3 mos
+12,romania,3,8,,,2007,9,2011,1,41,False,unknown,Software Developer & Team Leader Sep 2007 - Jan 2011 · 3 yrs 5 mosSep 2007 to Jan 2011 · 3 yrs 5 mos
+12,romania,2,9,,,2008,10,2009,10,13,False,unknown,Assistant lecturer Academy of Economic Studies in BucharestAcademy of Economic Studies in Bucharest Oct 2008 - Oct 2009 · 1 yr 1 moOct 2008 to Oct 2009 · 1 yr 1 mo
+12,romania,1,10,,,2005,11,2007,9,23,False,unknown,"Software Developer Intelliblocks Software SRLIntelliblocks Software SRL ""Nov 2005 - Sep 2007 · 1 yr 11 mos"
+13,romania,3,1,,,2008,2,,,218,True,unknown,Managing Director Man and Machine RomaniaMan and Machine Romania Feb 2008 - Present · 18 yrs 2 mosFeb 2008 to Present · 18 yrs 2 mos
+13,romania,2,2,"Bucharest, Bucharest, Romania A&C INTERNATIONal 9 yrs",,2005,9,2008,2,30,False,unknown,Director Of Sales Marketing Sep 2005 - Feb 2008 · 2 yrs 6 mosSep 2005 to Feb 2008 · 2 yrs 6 mos GIS Product Manager Mar 1999 - Sep 2005 · 6 yrs 7 mosMar 1999 to Sep 2005 · 6 yrs 7 mos
+13,romania,1,3,,,1994,6,1999,3,58,False,unknown,"Computer Aided Design Engineer Ministry of Public Works and Territory PlanningMinistry of Public Works and Territory Planning ""Jun 1994 - Mar 1999 · 4 yrs 10 mos"""""";"
+14,romania,3,1,"Senior Software Development Engineer"" Senior Software Development Engineer Orange Services · Full-time",,2024,3,,,25,True,senior,Mar 2024 - Present · 2 yrs 1 moMar 2024 to Present · 2 yrs 1 mo
+14,romania,2,2,,,2014,10,2024,2,113,False,unknown,"Bucharest, Romania · HybridBucharest, Romania · Hybrid Software Engineer Orange RomaniaOrange Romania Oct 2014 - Feb 2024 · 9 yrs 5 mosOct 2014 to Feb 2024 · 9 yrs 5 mos"
+14,romania,1,3,,,2013,6,2013,9,4,False,unknown,"Bucharest, Bucharest, RomaniaBucharest, Bucharest, Romania web developer intern CBN IT Business SolutionsCBN IT Business Solutions Jun 2013 - Sep 2013 · 4 mosJun 2013 to Sep 2013 · 4 mos"
