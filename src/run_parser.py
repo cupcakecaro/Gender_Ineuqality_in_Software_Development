@@ -2,7 +2,7 @@
 Run the full experience parsing pipeline.
 
 Usage (from project root):
-    python src/experience_parser.py
+    python src/run_parser.py
 
 Reads   : data/raw/raw_profiles.csv
 Writes  : data/processed/parsed_jobs.csv
@@ -40,9 +40,7 @@ def main() -> None:
         "start_year", "end_year", "duration_months",
         "is_current", "seniority_hint",
     ]
-    # Only include columns that exist in the dataframe
-    display_cols = [col for col in display_cols if col in df_jobs.columns]
-    print(df_jobs[display_cols].head(10).to_string(index=False))
+    print(df_jobs[display_cols].to_string(index=False))
 
 
 if __name__ == "__main__":
