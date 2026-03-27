@@ -906,10 +906,10 @@ profile_id,job_title,country,start_date,end_date,company,position_in_career,job_
 195,Owner of Undergraduated Volunteer Scolarship (Parallel and Distributed Programming),sweden,2009-03,2009-10,,1,Other
 196,Software Engineer,sweden,2025-03,,Sellpy,3,Traditional Software Development
 196,Software Developer,sweden,2022-09,2025-03,Omegapoint,2,Traditional Software Development
-196,Fullstack Developer (voluntary work),sweden,2020-11,2022-09,Uppsala Systemvetare,1,Traditional Software Development
-197,Software Engineer,sweden,2019-08,,Cisco,10,Traditional Software Development
-197,Master thesis: Back-end developer,sweden,2019-01,2019-07,Cisco,9,Other
-197,Service Engineer,sweden,2017-05,2019-08,Teracom AB,8,Traditional Software Development
+196,Fullstack Developer (voluntary work),sweden,2020-11,2022-09,Uppsala Systemvetare,1,ERROR
+197,Software Engineer,sweden,2019-08,,Cisco,10,ERROR
+197,Master thesis: Back-end developer,sweden,2019-01,2019-07,Cisco,9,ERROR
+197,Service Engineer,sweden,2017-05,2019-08,Teracom AB,8,ERROR
 197,"Teaching assistant in ""Operating Systems"" (ID1206)",sweden,2018-10,2018-12,Royal Institute of Technology,7,Other
 197,"Teaching assistant in ""Distributed Systems, Basic Course"" (ID2201)",sweden,2018-08,2018-10,Royal Institute of Technology,6,Other
 197,"Teaching assistant in ""Operating systems"" (ID1206)",sweden,2017-10,2017-12,Royal Institute of Technology,5,Other
@@ -1022,7 +1022,7 @@ profile_id,job_title,country,start_date,end_date,company,position_in_career,job_
 214,Teacher Assistant,sweden,2016-03,2017-09,Videskolan,3,Other
 214,Dental Assistant,sweden,2015-01,2016-05,Alpha Dental Care,2,Other
 214,Waitress,sweden,2014-01,2014-09,Hodja,1,Other
-215,FullStack Developer (Intern),sweden,2025-02,2025-08,Talking to me,5,Traditional Software Development
+215,FullStack Developer (Intern),sweden,2025-02,2025-08,Talking to me,5,ERROR
 215,Full Stack Developer (Student),sweden,2023-09,2025-06,Chas Academy,4,Traditional Software Development
 215,Web Developer,sweden,2023-01,2023-08,MG Sustainable Engineering,3,Traditional Software Development
 215,Back End Developer,sweden,2022-02,2022-12,tretton37,2,Traditional Software Development
@@ -1076,7 +1076,7 @@ profile_id,job_title,country,start_date,end_date,company,position_in_career,job_
 224,Software Engineer - Safe Vehicle Automation,sweden,2025-06,,Volvo Cars,20,Traditional Software Development
 224,Software Engineer - Climate Control & Calibration HMI,sweden,2024-06,2025-05,Volvo Cars,19,Traditional Software Development
 224,"Global Graduate - Software Engineer, AI & Robotics Lab",sweden,2024-03,2024-07,Volvo Cars,18,Traditional Software Development
-224,"Global Graduate - iOS Developer, Mobile Experience Cluster - Car Communications Team",sweden,2023-09,2024-03,Volvo Cars,17,Traditional Software Development
+224,"Global Graduate - iOS Developer, Mobile Experience Cluster - Car Communications Team",sweden,2023-09,2024-03,Volvo Cars,17,ERROR
 224,"Global Graduate - Data Analyst, Global Marketing Analytics",sweden,2023-05,2023-09,Volvo Cars,16,Other
 224,"Global Graduate - Associate Product Manager, Fleet Business Purchase Team",sweden,2023-01,2023-05,Volvo Cars,15,Other
 224,"Global Graduate - Software Developer, Vehicle Propulsion ECU Platform Team",sweden,2022-08,2023-01,Volvo Cars,14,Traditional Software Development
@@ -1252,7 +1252,7 @@ profile_id,job_title,country,start_date,end_date,company,position_in_career,job_
 247,Terminal Worker,sweden,2012-11,2013-02,PostNord,1,Other
 248,D365 & Power Platform Application Specialist,sweden,2025,,"Apollo, part of DER TOUR Group",5,Low-Code/No-Code Development
 248,Functional Application Consultant | Microsoft Dynamics 365 Customer Engagement,sweden,2022-03,2025-08,Capgemini,4,Low-Code/No-Code Development
-248,Solution Developer,sweden,2019-09,2022-02,SEB,3,Traditional Software Development
+248,Solution Developer,sweden,2019-09,2022-02,SEB,3,ERROR
 248,Consultant,sweden,2018-06,2018-10,Academic Work,2,Other
 248,Telemarketer,sweden,2015-01,2015-08,reader's mind,1,Other
 249,Partner & Consultant Dynamics 365 CRM/Power Platform,sweden,2019-11,,XLENT,6,Low-Code/No-Code Development
@@ -1393,7 +1393,7 @@ profile_id,job_title,country,start_date,end_date,company,position_in_career,job_
 263,Au Pair,sweden,2014-09,2015-03,Cultural Care Au Pair,1,Other
 264,Technical Solution Architect,sweden,2025-06,,Cepheo,6,Other
 264,Senior Dynamics 365 CE - Power Platform Consultant,sweden,2023-04,,Cepheo Sverige,5,Low-Code/No-Code Development
-264,Senior Dynamics 365 CE - Power Platform Consultant,sweden,2022-06,2023-05,DXC Technology,4,Low-Code/No-Code Development
+264,Senior Dynamics 365 CE - Power Platform Consultant,sweden,2022-06,2023-05,DXC Technology,4,ERROR
 264,Microsoft Dynamics CRM Consultant,sweden,2019-03,2022-11,DXC Technology,3,Low-Code/No-Code Development
 264,Microsoft Dynamics CRM Consultant,sweden,2018-08,2019-03,EG Sverige AB,2,Other
 264,Software Developer,sweden,2010-12,2015-02,Bever Computers LLC,1,Traditional Software Development
@@ -1525,7 +1525,7 @@ profile_id,job_title,country,start_date,end_date,company,position_in_career,job_
 282,Product Designer UX/UI,sweden,2020-01,2023-02,Qred,5,Other
 282,Streaming Operator,sweden,2019-08,2020-04,Streamfabriken,4,Other
 282,Election Committee Media Technology,sweden,2018-09,2019-12,Sektionen för Medieteknik | KTH,3,Other
-282,Mottagningen / Reception,sweden,2018-03,2018-09,Sektionen för Medieteknik | KTH,2,Other
+282,Mottagningen / Reception,sweden,2018-03,2018-09,Sektionen för Medieteknik | KTH,2,ERROR
 282,Elevassistent,sweden,2015-09,2016-05,Gärdesskolan,1,Other
 283,Program Ambassador,sweden,2025,,Chalmers University of Technology,3,Other
 283,IT Specialist Digital Innovation Solution,sweden,2023-04,2025-06,PT Bank Central Asia Tbk (BCA),2,Other
