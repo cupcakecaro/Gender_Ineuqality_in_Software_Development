@@ -1,0 +1,301 @@
+profile_id,country,profile_label,career_start_dt,last_observed_dt,duration_observed_months,event_a,time_to_event_a_months,event_b,time_to_event_b_months,baseline_seniority,number_of_roles,lcnc_share,profile_label_primary,career_start_year
+1,Romania,Other,2003-09-01,2026-04-10,271.0,1,18.0,0,271.0,3.0,6,,Excluded_Other_Mixed,2003.0
+2,Romania,Traditional Software Development,2013-01-01,2026-04-10,159.0,1,126.0,0,159.0,3.0,3,0.0,Traditional Software Development,2013.0
+3,Sweden,Traditional Software Development,2022-12-01,2026-04-10,40.0,0,40.0,0,40.0,1.0,3,0.0,Traditional Software Development,2022.0
+4,Sweden,Traditional Software Development,2010-08-01,2026-04-10,188.0,1,69.0,1,69.0,1.0,14,0.0,Traditional Software Development,2010.0
+5,Sweden,LCNC,2015-01-01,2026-04-10,135.0,1,37.0,1,54.0,3.0,6,1.0,LCNC,2015.0
+6,Romania,Traditional Software Development,2001-01-01,2026-04-10,303.0,1,61.0,1,61.0,3.0,3,0.0,Traditional Software Development,2001.0
+7,Romania,Traditional Software Development,2020-08-01,2026-04-10,68.0,0,68.0,0,68.0,1.0,2,0.0,Traditional Software Development,2020.0
+8,Romania,Other,1997-11-01,2026-04-10,341.0,0,341.0,0,341.0,3.0,3,,Excluded_Other_Mixed,1997.0
+9,Romania,Other,2006-04-01,2026-04-10,240.0,1,148.0,0,240.0,3.0,4,,Excluded_Other_Mixed,2006.0
+10,Romania,Traditional Software Development,2018-03-01,2026-04-10,97.0,1,32.0,1,32.0,1.0,4,0.0,Traditional Software Development,2018.0
+11,Romania,Traditional Software Development,2018-07-01,2026-04-10,93.0,1,79.0,1,79.0,3.0,4,0.0,Traditional Software Development,2018.0
+12,Romania,Traditional Software Development,2005-11-01,2026-04-10,245.0,1,22.0,1,22.0,3.0,10,0.0,Traditional Software Development,2005.0
+13,Romania,Other,1994-06-01,2026-04-10,382.0,1,57.0,1,57.0,3.0,4,,Excluded_Other_Mixed,1994.0
+14,Romania,Traditional Software Development,2013-06-01,2026-04-10,154.0,1,129.0,0,154.0,1.0,3,0.0,Traditional Software Development,2013.0
+15,Romania,Traditional Software Development,2015-07-01,2026-04-10,129.0,1,103.0,1,103.0,1.0,7,0.0,Traditional Software Development,2015.0
+16,Romania,Traditional Software Development,2019-06-01,2026-04-10,82.0,1,65.0,1,65.0,1.0,7,0.0,Traditional Software Development,2019.0
+17,Romania,Traditional Software Development,2006-10-01,2026-04-10,234.0,1,40.0,1,40.0,3.0,5,0.0,Traditional Software Development,2006.0
+18,Romania,Traditional Software Development,2022-12-01,2026-04-10,40.0,0,40.0,0,40.0,1.0,3,0.0,Traditional Software Development,2022.0
+19,Romania,Traditional Software Development,2018-11-01,2026-04-10,89.0,0,89.0,0,89.0,3.0,5,0.0,Traditional Software Development,2018.0
+20,Romania,Traditional Software Development,2021-07-01,2026-04-10,57.0,0,57.0,0,57.0,1.0,4,0.0,Traditional Software Development,2021.0
+21,Romania,Traditional Software Development,2022-07-01,2026-04-10,45.0,0,45.0,0,45.0,1.0,4,0.0,Traditional Software Development,2022.0
+22,Romania,Traditional Software Development,2022-07-01,2026-04-10,45.0,0,45.0,0,45.0,1.0,3,0.0,Traditional Software Development,2022.0
+23,Romania,Traditional Software Development,2013-07-01,2026-04-10,153.0,1,57.0,1,57.0,3.0,5,0.0,Traditional Software Development,2013.0
+24,Romania,Traditional Software Development,2021-12-01,2026-04-10,52.0,0,52.0,0,52.0,3.0,4,0.0,Traditional Software Development,2021.0
+25,Romania,Traditional Software Development,2011-10-01,2026-04-10,174.0,0,174.0,0,174.0,3.0,4,0.0,Traditional Software Development,2011.0
+26,Romania,Traditional Software Development,2019-07-01,2026-04-10,81.0,1,68.0,0,81.0,1.0,4,0.0,Traditional Software Development,2019.0
+27,Romania,Traditional Software Development,2022-03-01,2026-04-10,49.0,0,49.0,0,49.0,1.0,2,0.0,Traditional Software Development,2022.0
+28,Romania,Traditional Software Development,2025-07-01,2026-04-10,9.0,0,9.0,0,9.0,3.0,1,0.0,Traditional Software Development,2025.0
+29,Romania,Traditional Software Development,2018-09-01,2026-04-10,91.0,0,91.0,0,91.0,1.0,5,0.0,Traditional Software Development,2018.0
+30,Romania,Traditional Software Development,2021-07-01,2026-04-10,57.0,0,57.0,0,57.0,1.0,3,0.0,Traditional Software Development,2021.0
+31,Romania,Traditional Software Development,2022-06-01,2026-04-10,46.0,0,46.0,0,46.0,3.0,3,0.0,Traditional Software Development,2022.0
+32,Romania,Traditional Software Development,2021-07-01,2026-04-10,57.0,0,57.0,0,57.0,1.0,5,0.0,Traditional Software Development,2021.0
+33,Romania,Traditional Software Development,2012-08-01,2026-04-10,164.0,1,85.0,1,85.0,3.0,3,0.0,Traditional Software Development,2012.0
+34,Romania,Traditional Software Development,2019-06-01,2026-04-10,82.0,0,82.0,0,82.0,2.0,6,0.0,Traditional Software Development,2019.0
+35,Romania,Traditional Software Development,2012-09-01,2026-04-10,163.0,1,36.0,0,163.0,3.0,2,0.0,Traditional Software Development,2012.0
+36,Romania,Traditional Software Development,2022-07-01,2026-04-10,45.0,0,45.0,0,45.0,1.0,3,0.0,Traditional Software Development,2022.0
+37,Romania,Traditional Software Development,2020-07-01,2026-04-10,69.0,0,69.0,0,69.0,1.0,4,0.0,Traditional Software Development,2020.0
+38,Romania,Traditional Software Development,2021-07-01,2026-04-10,57.0,0,57.0,0,57.0,1.0,3,0.0,Traditional Software Development,2021.0
+39,Romania,Traditional Software Development,2012-07-01,2026-04-10,165.0,1,102.0,0,165.0,1.0,4,0.0,Traditional Software Development,2012.0
+40,Romania,Traditional Software Development,2011-10-01,2026-04-10,174.0,1,155.0,0,174.0,3.0,6,0.0,Traditional Software Development,2011.0
+41,Romania,Traditional Software Development,2023-07-01,2026-04-10,33.0,0,33.0,0,33.0,3.0,3,0.0,Traditional Software Development,2023.0
+42,Romania,Traditional Software Development,2022-08-01,2026-04-10,44.0,0,44.0,0,44.0,3.0,1,0.0,Traditional Software Development,2022.0
+43,Romania,Traditional Software Development,2018-06-01,2026-04-10,94.0,1,0.0,0,94.0,4.0,1,0.0,Traditional Software Development,2018.0
+44,Romania,Traditional Software Development,2020-09-01,2026-04-10,67.0,0,67.0,0,67.0,1.0,5,0.0,Traditional Software Development,2020.0
+45,Romania,Traditional Software Development,2023-11-01,2026-04-10,29.0,0,29.0,0,29.0,3.0,4,0.0,Traditional Software Development,2023.0
+46,Romania,Traditional Software Development,2019-06-01,2025-11-01,77.0,0,77.0,0,77.0,1.0,5,0.0,Traditional Software Development,2019.0
+47,Romania,Traditional Software Development,2023-03-01,2026-04-10,37.0,0,37.0,0,37.0,3.0,1,0.0,Traditional Software Development,2023.0
+48,Romania,Traditional Software Development,2009-02-01,2026-04-10,206.0,1,153.0,0,206.0,2.0,6,0.0,Traditional Software Development,2009.0
+49,Romania,Mixed,2019-04-01,2026-04-10,84.0,0,84.0,0,84.0,3.0,5,0.3333333333333333,Excluded_Other_Mixed,2019.0
+50,Romania,Traditional Software Development,2021-09-01,2026-04-10,55.0,0,55.0,0,55.0,3.0,4,0.0,Traditional Software Development,2021.0
+51,Romania,Traditional Software Development,2021-09-01,2026-04-10,55.0,0,55.0,0,55.0,3.0,5,0.0,Traditional Software Development,2021.0
+52,Romania,Traditional Software Development,2020-11-01,2026-04-10,65.0,1,64.0,0,65.0,0.0,6,0.0,Traditional Software Development,2020.0
+53,Romania,Traditional Software Development,2013-06-01,2026-04-10,154.0,1,139.0,0,154.0,3.0,6,0.0,Traditional Software Development,2013.0
+54,Romania,Traditional Software Development,2020-11-01,2026-04-10,65.0,0,65.0,0,65.0,1.0,4,0.0,Traditional Software Development,2020.0
+55,Romania,Traditional Software Development,2011-07-01,2026-04-10,177.0,1,57.0,1,113.0,3.0,9,0.0,Traditional Software Development,2011.0
+56,Romania,Traditional Software Development,2011-08-01,2026-04-10,176.0,1,35.0,1,86.0,3.0,4,0.0,Traditional Software Development,2011.0
+57,Romania,Traditional Software Development,2017-01-01,2026-04-10,111.0,1,56.0,0,111.0,3.0,3,0.0,Traditional Software Development,2017.0
+58,Romania,Traditional Software Development,2014-07-01,2026-04-10,141.0,0,141.0,0,141.0,3.0,14,0.0,Traditional Software Development,2014.0
+59,Romania,Traditional Software Development,2022-07-01,2024-09-01,26.0,0,26.0,0,26.0,3.0,3,0.0,Traditional Software Development,2022.0
+60,Romania,Traditional Software Development,2022-06-01,2026-04-10,46.0,0,46.0,0,46.0,1.0,3,0.0,Traditional Software Development,2022.0
+61,Romania,Traditional Software Development,2021-05-01,2026-04-10,59.0,0,59.0,0,59.0,1.0,3,0.0,Traditional Software Development,2021.0
+62,Romania,Traditional Software Development,2018-10-01,2026-04-10,90.0,0,90.0,0,90.0,0.0,7,0.0,Traditional Software Development,2018.0
+63,Romania,Traditional Software Development,2013-08-01,2026-04-10,152.0,1,51.0,0,152.0,3.0,7,0.0,Traditional Software Development,2013.0
+64,Romania,Traditional Software Development,2016-06-01,2026-04-10,118.0,1,74.0,0,118.0,3.0,5,0.0,Traditional Software Development,2016.0
+65,Romania,Traditional Software Development,2013-08-01,2026-04-10,152.0,1,21.0,1,21.0,3.0,4,0.0,Traditional Software Development,2013.0
+66,Romania,Traditional Software Development,2014-10-01,2026-01-01,135.0,0,135.0,0,135.0,3.0,3,0.0,Traditional Software Development,2014.0
+67,Romania,Traditional Software Development,2018-07-01,2026-04-10,93.0,0,93.0,0,93.0,1.0,3,0.0,Traditional Software Development,2018.0
+68,Romania,Traditional Software Development,2013-01-01,2026-04-10,159.0,0,159.0,0,159.0,3.0,11,0.0,Traditional Software Development,2013.0
+69,Romania,Traditional Software Development,2012-11-01,2026-04-10,161.0,1,60.0,0,161.0,1.0,5,0.0,Traditional Software Development,2012.0
+70,Romania,Traditional Software Development,2011-10-01,2026-04-10,174.0,1,30.0,0,174.0,3.0,2,0.0,Traditional Software Development,2011.0
+71,Romania,Traditional Software Development,2021-09-01,2026-04-10,55.0,0,55.0,0,55.0,2.0,3,0.0,Traditional Software Development,2021.0
+72,Romania,Traditional Software Development,2010-11-01,2026-04-10,185.0,1,58.0,1,58.0,3.0,3,0.0,Traditional Software Development,2010.0
+73,Romania,Traditional Software Development,2019-07-01,2026-04-10,81.0,0,81.0,0,81.0,2.0,4,0.0,Traditional Software Development,2019.0
+74,Romania,Traditional Software Development,2012-07-01,2026-04-10,165.0,0,165.0,0,165.0,1.0,4,0.0,Traditional Software Development,2012.0
+75,Romania,Traditional Software Development,2023-06-01,2026-04-10,34.0,0,34.0,0,34.0,1.0,4,0.0,Traditional Software Development,2023.0
+76,Romania,Traditional Software Development,2022-10-01,2026-04-10,42.0,1,4.0,1,4.0,0.0,6,0.0,Traditional Software Development,2022.0
+77,Romania,Traditional Software Development,2007-07-01,2026-04-10,225.0,0,225.0,0,225.0,3.0,4,0.0,Traditional Software Development,2007.0
+78,Romania,Mixed,2021-10-01,2026-04-10,54.0,0,54.0,0,54.0,3.0,3,0.6666666666666666,Excluded_Other_Mixed,2021.0
+79,Romania,Mixed,2020-01-01,2026-04-10,75.0,0,75.0,0,75.0,3.0,2,0.5,Excluded_Other_Mixed,2020.0
+80,Romania,LCNC,2019-06-01,2026-04-10,82.0,0,82.0,0,82.0,1.0,5,0.75,LCNC,2019.0
+81,Romania,LCNC,2018-07-01,2026-04-10,93.0,0,93.0,0,93.0,1.0,6,1.0,LCNC,2018.0
+82,Romania,Mixed,2022-05-01,2026-04-10,47.0,0,47.0,0,47.0,1.0,3,0.5,Excluded_Other_Mixed,2022.0
+83,Romania,LCNC,2022-06-01,2026-02-01,44.0,0,44.0,0,44.0,0.0,5,1.0,LCNC,2022.0
+84,Romania,LCNC,2022-02-01,2026-04-10,50.0,0,50.0,0,50.0,3.0,2,1.0,LCNC,2022.0
+85,Romania,Traditional Software Development,2011-02-01,2026-04-10,182.0,1,171.0,1,171.0,3.0,4,0.0,Traditional Software Development,2011.0
+86,Romania,Mixed,2022-03-01,2026-04-10,49.0,0,49.0,0,49.0,2.0,2,0.5,Excluded_Other_Mixed,2022.0
+87,Romania,Traditional Software Development,2022-07-01,2026-04-10,45.0,0,45.0,0,45.0,1.0,4,0.25,Traditional Software Development,2022.0
+88,Romania,LCNC,2022-07-01,2026-04-10,45.0,0,45.0,0,45.0,1.0,4,1.0,LCNC,2022.0
+89,Romania,LCNC,2020-01-01,2026-04-10,75.0,0,75.0,0,75.0,1.0,5,1.0,LCNC,2020.0
+90,Romania,LCNC,2022-11-01,2026-04-10,41.0,0,41.0,0,41.0,3.0,1,1.0,LCNC,2022.0
+91,Romania,LCNC,2021-07-01,2026-04-10,57.0,0,57.0,0,57.0,3.0,1,1.0,LCNC,2021.0
+92,Romania,LCNC,2015-03-01,2026-04-10,133.0,1,36.0,1,36.0,0.0,6,1.0,LCNC,2015.0
+93,Romania,LCNC,2022-05-01,2026-04-10,47.0,0,47.0,0,47.0,1.0,4,1.0,LCNC,2022.0
+94,Romania,LCNC,2016-07-01,2026-04-10,117.0,1,31.0,1,31.0,0.0,5,1.0,LCNC,2016.0
+95,Romania,LCNC,2023-07-01,2026-04-10,33.0,0,33.0,0,33.0,3.0,2,1.0,LCNC,2023.0
+96,Romania,LCNC,2022-07-01,2026-04-10,45.0,0,45.0,0,45.0,1.0,3,1.0,LCNC,2022.0
+97,Romania,Mixed,2022-07-01,2026-04-10,45.0,0,45.0,0,45.0,3.0,2,0.5,Excluded_Other_Mixed,2022.0
+98,Romania,Traditional Software Development,2018-11-01,2026-04-10,89.0,1,38.0,1,38.0,3.0,4,0.25,Traditional Software Development,2018.0
+99,Romania,LCNC,2022-06-01,2026-04-10,46.0,0,46.0,0,46.0,1.0,3,1.0,LCNC,2022.0
+100,Romania,LCNC,2005-01-01,2026-04-10,255.0,1,0.0,1,0.0,6.0,5,1.0,LCNC,2005.0
+101,Romania,LCNC,2021-07-01,2026-04-10,57.0,0,57.0,0,57.0,1.0,3,1.0,LCNC,2021.0
+102,Romania,LCNC,2022-07-01,2026-04-10,45.0,1,41.0,0,45.0,3.0,2,1.0,LCNC,2022.0
+103,Romania,Traditional Software Development,2022-12-01,2026-04-10,40.0,1,0.0,1,0.0,6.0,3,0.0,Traditional Software Development,2022.0
+104,Romania,LCNC,2018-07-01,2025-11-01,88.0,0,88.0,0,88.0,0.0,4,1.0,LCNC,2018.0
+105,Romania,Mixed,2024-07-01,2026-04-10,21.0,0,21.0,0,21.0,3.0,3,0.5,Excluded_Other_Mixed,2024.0
+106,Romania,Mixed,2023-02-01,2026-04-10,38.0,0,38.0,0,38.0,0.0,5,0.5,Excluded_Other_Mixed,2023.0
+107,Romania,Mixed,2015-11-01,2026-04-10,125.0,0,125.0,0,125.0,3.0,7,0.6,Excluded_Other_Mixed,2015.0
+108,Romania,Traditional Software Development,2020-09-01,2026-04-10,67.0,0,67.0,0,67.0,3.0,4,0.25,Traditional Software Development,2020.0
+109,Romania,Traditional Software Development,2021-02-01,2026-04-10,62.0,1,59.0,0,62.0,3.0,4,0.0,Traditional Software Development,2021.0
+110,Romania,Mixed,2021-06-01,2026-04-10,58.0,0,58.0,0,58.0,1.0,4,0.5,Excluded_Other_Mixed,2021.0
+111,Romania,Traditional Software Development,2013-10-01,2026-04-10,150.0,0,150.0,0,150.0,3.0,6,0.0,Traditional Software Development,2013.0
+112,Romania,LCNC,2010-08-01,2026-04-10,188.0,1,38.0,1,38.0,3.0,3,1.0,LCNC,2010.0
+113,Romania,Mixed,2020-01-01,2026-04-10,75.0,0,75.0,0,75.0,3.0,2,0.5,Excluded_Other_Mixed,2020.0
+114,Romania,Other,2022-03-01,2026-04-10,49.0,0,49.0,0,49.0,3.0,3,,Excluded_Other_Mixed,2022.0
+115,Romania,LCNC,2010-01-01,2026-04-10,195.0,1,18.0,1,18.0,0.0,8,1.0,LCNC,2010.0
+116,Romania,Mixed,2021-10-01,2026-04-10,54.0,0,54.0,0,54.0,3.0,3,0.6666666666666666,Excluded_Other_Mixed,2021.0
+117,Romania,LCNC,2024-08-01,2026-04-10,20.0,1,19.0,1,19.0,3.0,2,1.0,LCNC,2024.0
+118,Romania,LCNC,2020-02-01,2026-04-10,74.0,1,0.0,1,0.0,6.0,5,1.0,LCNC,2020.0
+119,Romania,Mixed,2015-11-01,2026-04-10,125.0,1,108.0,1,108.0,3.0,7,0.5,Excluded_Other_Mixed,2015.0
+120,Romania,LCNC,2019-06-01,2026-04-10,82.0,0,82.0,0,82.0,1.0,5,0.75,LCNC,2019.0
+121,Romania,Mixed,2022-05-01,2026-04-10,47.0,0,47.0,0,47.0,1.0,3,0.5,Excluded_Other_Mixed,2022.0
+122,Romania,LCNC,2022-02-01,2026-04-10,50.0,0,50.0,0,50.0,3.0,2,1.0,LCNC,2022.0
+123,Romania,Traditional Software Development,2022-07-01,2026-04-10,45.0,0,45.0,0,45.0,1.0,4,0.25,Traditional Software Development,2022.0
+124,Romania,LCNC,2022-08-01,2026-04-10,44.0,1,41.0,0,44.0,3.0,3,1.0,LCNC,2022.0
+125,Romania,Mixed,2024-07-01,2026-04-10,21.0,0,21.0,0,21.0,1.0,2,0.5,Excluded_Other_Mixed,2024.0
+126,Romania,LCNC,2022-10-01,2026-04-10,42.0,1,7.0,1,7.0,1.0,5,1.0,LCNC,2022.0
+127,Romania,Mixed,2014-06-01,2026-04-10,142.0,1,16.0,1,27.0,3.0,7,0.5,Excluded_Other_Mixed,2014.0
+128,Romania,LCNC,2024-07-01,2026-04-10,21.0,0,21.0,0,21.0,3.0,2,1.0,LCNC,2024.0
+129,Romania,Traditional Software Development,2019-07-01,2025-05-01,70.0,1,37.0,1,37.0,3.0,5,0.2,Traditional Software Development,2019.0
+130,Romania,Traditional Software Development,2016-03-01,2026-04-10,121.0,0,121.0,0,121.0,3.0,4,0.0,Traditional Software Development,2016.0
+131,Romania,Traditional Software Development,2020-01-01,2026-04-10,75.0,0,75.0,0,75.0,2.0,4,0.0,Traditional Software Development,2020.0
+132,Romania,LCNC,2017-06-01,2026-04-10,106.0,0,106.0,0,106.0,3.0,4,1.0,LCNC,2017.0
+133,Romania,Mixed,2019-07-01,2026-04-10,81.0,1,18.0,0,81.0,3.0,4,0.3333333333333333,Excluded_Other_Mixed,2019.0
+134,Romania,Mixed,2022-07-01,2026-04-10,45.0,1,16.0,1,16.0,1.0,3,0.3333333333333333,Excluded_Other_Mixed,2022.0
+135,Romania,Traditional Software Development,2021-06-01,2026-04-10,58.0,0,58.0,0,58.0,1.0,5,0.2,Traditional Software Development,2021.0
+136,Romania,Traditional Software Development,2022-05-01,2024-09-01,28.0,0,28.0,0,28.0,3.0,2,0.0,Traditional Software Development,2022.0
+137,Romania,LCNC,2016-01-01,2026-04-10,123.0,1,111.0,1,111.0,3.0,6,1.0,LCNC,2016.0
+138,Romania,LCNC,2023-07-01,2026-04-10,33.0,0,33.0,0,33.0,3.0,2,1.0,LCNC,2023.0
+139,Romania,Traditional Software Development,2020-11-01,2026-04-10,65.0,0,65.0,0,65.0,3.0,3,0.0,Traditional Software Development,2020.0
+140,Romania,LCNC,2018-11-01,2026-04-10,89.0,0,89.0,0,89.0,3.0,2,1.0,LCNC,2018.0
+141,Romania,LCNC,2013-03-01,2026-04-10,157.0,0,157.0,0,157.0,3.0,5,1.0,LCNC,2013.0
+142,Romania,Traditional Software Development,2013-06-01,2026-04-10,154.0,1,50.0,1,93.0,3.0,4,0.0,Traditional Software Development,2013.0
+143,Romania,LCNC,2009-08-01,2026-04-10,200.0,1,113.0,1,113.0,0.0,6,1.0,LCNC,2009.0
+144,Romania,LCNC,2023-04-01,2026-04-10,36.0,0,36.0,0,36.0,3.0,2,1.0,LCNC,2023.0
+145,Romania,LCNC,2021-07-01,2026-04-10,57.0,0,57.0,0,57.0,1.0,6,0.8,LCNC,2021.0
+146,Romania,LCNC,2016-06-01,2026-04-10,118.0,0,118.0,0,118.0,1.0,5,1.0,LCNC,2016.0
+147,Romania,LCNC,2016-10-01,2026-04-10,114.0,1,71.0,0,114.0,0.0,3,1.0,LCNC,2016.0
+148,Romania,Mixed,2022-07-01,2026-04-10,45.0,0,45.0,0,45.0,3.0,4,0.5,Excluded_Other_Mixed,2022.0
+149,Romania,LCNC,2021-04-01,2026-04-10,60.0,0,60.0,0,60.0,1.0,3,1.0,LCNC,2021.0
+150,Romania,LCNC,2024-11-01,2026-04-10,17.0,0,17.0,0,17.0,1.0,2,1.0,LCNC,2024.0
+151,Romania,LCNC,2023-04-01,2025-07-01,27.0,0,27.0,0,27.0,1.0,2,1.0,LCNC,2023.0
+152,Romania,Mixed,2020-01-01,2026-04-10,75.0,0,75.0,0,75.0,3.0,2,0.5,Excluded_Other_Mixed,2020.0
+153,Sweden,Traditional Software Development,2022-01-01,2026-04-10,51.0,0,51.0,0,51.0,1.0,3,0.0,Traditional Software Development,2022.0
+154,Sweden,Traditional Software Development,2020-01-01,2026-04-10,75.0,0,75.0,0,75.0,1.0,6,0.0,Traditional Software Development,2020.0
+155,Sweden,Traditional Software Development,2018-06-01,2024-01-01,67.0,1,0.0,0,67.0,4.0,4,0.0,Traditional Software Development,2018.0
+156,Sweden,Traditional Software Development,2018-05-01,2026-04-10,95.0,1,49.0,0,95.0,1.0,7,0.0,Traditional Software Development,2018.0
+157,Sweden,Traditional Software Development,2019-01-01,2025-01-01,72.0,0,72.0,0,72.0,3.0,5,0.0,Traditional Software Development,2019.0
+158,Sweden,Traditional Software Development,2018-02-01,2026-04-10,98.0,1,66.0,1,66.0,3.0,9,0.0,Traditional Software Development,2018.0
+159,Sweden,Traditional Software Development,2001-01-01,2026-04-10,303.0,1,82.0,1,82.0,3.0,6,0.0,Traditional Software Development,2001.0
+160,Sweden,Traditional Software Development,2013-06-01,2026-04-10,154.0,1,23.0,1,23.0,0.0,14,0.0,Traditional Software Development,2013.0
+161,Sweden,Traditional Software Development,2021-06-01,2026-04-10,58.0,1,2.0,1,2.0,3.0,10,0.0,Traditional Software Development,2021.0
+162,Sweden,Traditional Software Development,2020-04-01,2026-04-10,72.0,0,72.0,0,72.0,1.0,6,0.0,Traditional Software Development,2020.0
+163,Sweden,Traditional Software Development,2015-08-01,2026-04-10,128.0,1,0.0,1,0.0,5.0,2,0.0,Traditional Software Development,2015.0
+164,Sweden,Traditional Software Development,2018-07-01,2026-04-10,93.0,0,93.0,0,93.0,1.0,6,0.0,Traditional Software Development,2018.0
+165,Sweden,Traditional Software Development,2013-02-01,2023-07-01,125.0,1,6.0,1,6.0,3.0,4,0.0,Traditional Software Development,2013.0
+166,Sweden,Traditional Software Development,2023-06-01,2026-04-10,34.0,0,34.0,0,34.0,0.0,5,0.0,Traditional Software Development,2023.0
+167,Sweden,Traditional Software Development,2012-01-01,2026-04-10,171.0,1,59.0,1,59.0,0.0,15,0.0,Traditional Software Development,2012.0
+168,Sweden,Traditional Software Development,2009-04-01,2026-04-10,204.0,1,62.0,0,204.0,3.0,6,0.0,Traditional Software Development,2009.0
+169,Sweden,Traditional Software Development,2015-05-01,2026-04-10,131.0,0,131.0,0,131.0,0.0,5,0.0,Traditional Software Development,2015.0
+170,Sweden,Traditional Software Development,2014-06-01,2026-04-10,142.0,1,38.0,0,142.0,3.0,3,0.0,Traditional Software Development,2014.0
+171,Sweden,Traditional Software Development,2014-10-01,2026-04-10,138.0,1,32.0,1,32.0,3.0,9,0.0,Traditional Software Development,2014.0
+172,Sweden,Traditional Software Development,2014-09-01,2026-04-10,139.0,1,36.0,1,36.0,3.0,7,0.0,Traditional Software Development,2014.0
+173,Sweden,Traditional Software Development,2013-02-01,2026-04-10,158.0,1,103.0,0,158.0,3.0,4,0.0,Traditional Software Development,2013.0
+174,Sweden,Traditional Software Development,2014-02-01,2026-04-10,146.0,1,48.0,1,67.0,3.0,5,0.0,Traditional Software Development,2014.0
+175,Sweden,Traditional Software Development,2024-09-01,2026-04-10,19.0,0,19.0,0,19.0,3.0,1,0.0,Traditional Software Development,2024.0
+176,Sweden,Traditional Software Development,2007-01-01,2026-04-10,231.0,0,231.0,0,231.0,0.0,12,0.0,Traditional Software Development,2007.0
+177,Sweden,Traditional Software Development,2017-06-01,2026-04-10,106.0,0,106.0,0,106.0,3.0,6,0.0,Traditional Software Development,2017.0
+178,Sweden,Traditional Software Development,2015-07-01,2026-04-10,129.0,1,21.0,1,21.0,3.0,8,0.0,Traditional Software Development,2015.0
+179,Sweden,Traditional Software Development,2023-06-01,2026-04-10,34.0,0,34.0,0,34.0,1.0,7,0.0,Traditional Software Development,2023.0
+180,Sweden,Traditional Software Development,2016-07-01,2026-04-10,117.0,1,24.0,0,117.0,3.0,8,0.0,Traditional Software Development,2016.0
+181,Sweden,Traditional Software Development,2010-07-01,2026-04-10,189.0,1,0.0,0,189.0,4.0,3,0.0,Traditional Software Development,2010.0
+182,Sweden,Traditional Software Development,2016-09-01,2026-04-10,115.0,1,15.0,1,15.0,3.0,9,0.0,Traditional Software Development,2016.0
+183,Sweden,Traditional Software Development,2010-11-01,2026-04-10,185.0,1,136.0,0,185.0,3.0,9,0.0,Traditional Software Development,2010.0
+184,Sweden,LCNC,2020-11-01,2026-04-10,65.0,1,53.0,0,65.0,0.0,3,1.0,LCNC,2020.0
+185,Sweden,Traditional Software Development,2016-05-01,2026-04-10,119.0,1,0.0,0,119.0,4.0,4,0.0,Traditional Software Development,2016.0
+186,Sweden,Traditional Software Development,2013-03-01,2026-04-10,157.0,0,157.0,0,157.0,3.0,3,0.0,Traditional Software Development,2013.0
+187,Sweden,Traditional Software Development,2010-03-01,2026-04-10,193.0,1,42.0,1,76.0,2.0,9,0.0,Traditional Software Development,2010.0
+188,Sweden,Traditional Software Development,2015-05-01,2026-04-10,131.0,1,44.0,0,131.0,1.0,7,0.0,Traditional Software Development,2015.0
+189,Sweden,Traditional Software Development,2017-07-01,2026-04-10,105.0,1,54.0,0,105.0,3.0,5,0.0,Traditional Software Development,2017.0
+190,Sweden,Traditional Software Development,2007-08-01,2026-04-10,224.0,1,175.0,1,175.0,0.0,11,0.0,Traditional Software Development,2007.0
+191,Sweden,Traditional Software Development,2015-06-01,2026-04-10,130.0,1,44.0,0,130.0,1.0,8,0.0,Traditional Software Development,2015.0
+192,Sweden,Traditional Software Development,2011-03-01,2026-04-10,181.0,1,1.0,0,181.0,3.0,7,0.0,Traditional Software Development,2011.0
+193,Sweden,Traditional Software Development,2021-01-01,2026-04-10,63.0,0,63.0,0,63.0,0.0,5,0.0,Traditional Software Development,2021.0
+194,Sweden,Traditional Software Development,2011-08-01,2026-04-10,176.0,1,0.0,1,0.0,7.0,8,0.0,Traditional Software Development,2011.0
+195,Sweden,Traditional Software Development,2009-03-01,2026-04-10,205.0,1,0.0,1,0.0,7.0,7,0.0,Traditional Software Development,2009.0
+196,Sweden,Traditional Software Development,2020-11-01,2026-04-10,65.0,0,65.0,0,65.0,3.0,3,0.0,Traditional Software Development,2020.0
+197,Sweden,Traditional Software Development,2013-06-01,2026-04-10,154.0,1,0.0,1,0.0,6.0,10,0.0,Traditional Software Development,2013.0
+198,Sweden,Traditional Software Development,2008-11-01,2026-04-10,209.0,0,209.0,0,209.0,3.0,11,0.0,Traditional Software Development,2008.0
+199,Sweden,Traditional Software Development,2014-06-01,2026-04-10,142.0,1,37.0,1,85.0,3.0,4,0.0,Traditional Software Development,2014.0
+200,Sweden,Traditional Software Development,1997-01-01,2026-04-10,351.0,0,351.0,0,351.0,3.0,6,0.0,Traditional Software Development,1997.0
+201,Sweden,Traditional Software Development,2019-06-01,2026-04-10,82.0,0,82.0,0,82.0,3.0,6,0.0,Traditional Software Development,2019.0
+202,Sweden,Traditional Software Development,2017-12-01,2026-04-10,100.0,1,0.0,1,0.0,6.0,5,0.0,Traditional Software Development,2017.0
+203,Sweden,Traditional Software Development,2018-04-01,2026-04-10,96.0,0,96.0,0,96.0,0.0,4,0.0,Traditional Software Development,2018.0
+204,Sweden,Traditional Software Development,2013-02-01,2026-04-10,158.0,1,41.0,1,140.0,3.0,6,0.0,Traditional Software Development,2013.0
+205,Sweden,Traditional Software Development,2022-05-01,2025-08-01,39.0,0,39.0,0,39.0,3.0,1,0.0,Traditional Software Development,2022.0
+206,Sweden,Other,2009-09-01,2026-04-10,199.0,1,76.0,1,76.0,3.0,8,,Excluded_Other_Mixed,2009.0
+207,Sweden,Traditional Software Development,2013-06-01,2026-04-10,154.0,1,110.0,1,110.0,3.0,9,0.0,Traditional Software Development,2013.0
+208,Sweden,Traditional Software Development,2011-09-01,2026-04-10,175.0,0,175.0,0,175.0,3.0,6,0.0,Traditional Software Development,2011.0
+209,Sweden,Traditional Software Development,2016-02-01,2026-04-10,122.0,1,3.0,1,3.0,3.0,13,0.0,Traditional Software Development,2016.0
+210,Sweden,Traditional Software Development,2020-06-01,2026-04-10,70.0,0,70.0,0,70.0,3.0,3,0.0,Traditional Software Development,2020.0
+211,Sweden,Traditional Software Development,2014-01-01,2026-04-10,147.0,1,43.0,0,147.0,3.0,6,0.0,Traditional Software Development,2014.0
+212,Sweden,Traditional Software Development,2017-09-01,2026-04-10,103.0,0,103.0,0,103.0,3.0,6,0.0,Traditional Software Development,2017.0
+213,Sweden,Traditional Software Development,2020-06-01,2025-09-01,63.0,1,10.0,1,10.0,3.0,5,0.0,Traditional Software Development,2020.0
+214,Sweden,Traditional Software Development,2014-01-01,2026-04-10,147.0,0,147.0,0,147.0,0.0,6,0.0,Traditional Software Development,2014.0
+215,Sweden,Traditional Software Development,2015-03-01,2025-08-01,125.0,0,125.0,0,125.0,3.0,5,0.0,Traditional Software Development,2015.0
+216,Sweden,Traditional Software Development,2011-10-01,2026-04-10,174.0,1,29.0,0,174.0,3.0,4,0.0,Traditional Software Development,2011.0
+217,Sweden,Traditional Software Development,2021-02-01,2026-04-10,62.0,1,41.0,0,62.0,3.0,3,0.0,Traditional Software Development,2021.0
+218,Sweden,Traditional Software Development,2012-12-01,2025-05-01,149.0,1,0.0,0,149.0,4.0,3,0.0,Traditional Software Development,2012.0
+219,Sweden,Traditional Software Development,2016-06-01,2023-04-01,82.0,1,34.0,0,82.0,3.0,2,0.0,Traditional Software Development,2016.0
+220,Sweden,Traditional Software Development,2014-12-01,2022-08-01,92.0,1,53.0,0,92.0,3.0,5,0.0,Traditional Software Development,2014.0
+221,Sweden,Traditional Software Development,2003-01-01,2025-03-01,266.0,1,147.0,0,266.0,3.0,16,0.0,Traditional Software Development,2003.0
+222,Sweden,Traditional Software Development,2015-12-01,2026-04-10,124.0,1,100.0,0,124.0,3.0,6,0.0,Traditional Software Development,2015.0
+223,Sweden,Traditional Software Development,2015-10-01,2026-04-10,126.0,0,126.0,0,126.0,3.0,7,0.0,Traditional Software Development,2015.0
+224,Sweden,Traditional Software Development,2017-12-01,2026-04-10,100.0,1,49.0,1,49.0,1.0,20,0.0,Traditional Software Development,2017.0
+225,Sweden,Traditional Software Development,2017-01-01,2026-04-10,111.0,1,26.0,1,26.0,3.0,10,0.0,Traditional Software Development,2017.0
+226,Sweden,LCNC,2015-01-01,2026-04-10,135.0,1,37.0,0,135.0,3.0,6,1.0,LCNC,2015.0
+227,Sweden,LCNC,2016-05-01,2026-04-10,119.0,1,0.0,1,0.0,5.0,5,1.0,LCNC,2016.0
+228,Sweden,Traditional Software Development,2016-12-01,2026-04-10,112.0,0,112.0,0,112.0,3.0,4,0.0,Traditional Software Development,2016.0
+229,Sweden,Traditional Software Development,2016-12-01,2026-04-10,112.0,1,58.0,1,58.0,3.0,5,0.0,Traditional Software Development,2016.0
+230,Sweden,Mixed,2018-01-01,2026-04-10,99.0,0,99.0,0,99.0,0.0,4,0.3333333333333333,Excluded_Other_Mixed,2018.0
+231,Sweden,Mixed,2014-10-01,2026-04-10,138.0,0,138.0,0,138.0,0.0,8,0.6666666666666666,Excluded_Other_Mixed,2014.0
+232,Sweden,LCNC,2015-03-01,2025-05-01,122.0,0,122.0,0,122.0,3.0,2,1.0,LCNC,2015.0
+233,Sweden,Traditional Software Development,2009-08-01,2026-04-10,200.0,1,78.0,1,149.0,1.0,8,0.14285714285714285,Traditional Software Development,2009.0
+234,Sweden,Traditional Software Development,2015-10-01,2026-04-10,126.0,1,48.0,1,48.0,0.0,16,0.25,Traditional Software Development,2015.0
+235,Sweden,Other,2010-07-01,2026-04-10,189.0,1,18.0,1,18.0,3.0,8,,Excluded_Other_Mixed,2010.0
+236,Sweden,Mixed,,,,0,,0,,,2,,Excluded_Other_Mixed,
+237,Sweden,Traditional Software Development,2018-03-01,2026-04-10,97.0,0,97.0,0,97.0,2.0,4,0.25,Traditional Software Development,2018.0
+238,Sweden,Traditional Software Development,2007-01-01,2026-04-10,231.0,1,0.0,1,0.0,6.0,9,0.0,Traditional Software Development,2007.0
+239,Sweden,Traditional Software Development,2007-01-01,2026-04-10,231.0,0,231.0,0,231.0,3.0,9,0.0,Traditional Software Development,2007.0
+240,Sweden,LCNC,2006-03-01,2026-04-10,241.0,1,0.0,1,0.0,7.0,8,1.0,LCNC,2006.0
+241,Sweden,LCNC,2015-12-01,2026-04-10,124.0,0,124.0,0,124.0,3.0,4,1.0,LCNC,2015.0
+242,Sweden,LCNC,1997-05-01,2026-04-10,347.0,1,0.0,1,0.0,6.0,7,1.0,LCNC,1997.0
+243,Sweden,LCNC,2019-02-01,2026-04-10,86.0,0,86.0,0,86.0,0.0,4,1.0,LCNC,2019.0
+244,Sweden,Mixed,2007-08-01,2026-04-10,224.0,1,196.0,1,196.0,3.0,5,0.5,Excluded_Other_Mixed,2007.0
+245,Sweden,Mixed,2003-07-01,2026-04-10,273.0,0,273.0,0,273.0,0.0,5,0.5,Excluded_Other_Mixed,2003.0
+246,Sweden,LCNC,2012-01-01,2026-04-10,171.0,1,43.0,1,43.0,3.0,14,1.0,LCNC,2012.0
+247,Sweden,LCNC,2012-11-01,2026-04-10,161.0,1,55.0,1,55.0,0.0,10,1.0,LCNC,2012.0
+248,Sweden,Mixed,2015-01-01,2026-04-10,135.0,0,135.0,0,135.0,3.0,5,0.6666666666666666,Excluded_Other_Mixed,2015.0
+249,Sweden,LCNC,2007-06-01,2026-04-10,226.0,1,38.0,1,38.0,3.0,6,1.0,LCNC,2007.0
+250,Sweden,LCNC,2009-02-01,2026-04-10,206.0,1,124.0,1,124.0,1.0,18,1.0,LCNC,2009.0
+251,Sweden,LCNC,2012-01-01,2026-04-10,171.0,1,40.0,1,40.0,3.0,5,1.0,LCNC,2012.0
+252,Sweden,LCNC,2010-12-01,2026-04-10,184.0,1,0.0,1,0.0,6.0,12,1.0,LCNC,2010.0
+253,Sweden,Mixed,2007-07-01,2026-04-10,225.0,1,134.0,1,134.0,3.0,10,0.4,Excluded_Other_Mixed,2007.0
+254,Sweden,LCNC,2011-01-01,2026-04-10,183.0,0,183.0,0,183.0,0.0,9,1.0,LCNC,2011.0
+255,Sweden,LCNC,2021-09-01,2026-04-10,55.0,0,55.0,0,55.0,3.0,4,1.0,LCNC,2021.0
+256,Sweden,LCNC,2004-01-01,2026-04-10,267.0,1,255.0,0,267.0,0.0,9,1.0,LCNC,2004.0
+257,Sweden,LCNC,2008-08-01,2026-04-10,212.0,1,32.0,1,32.0,3.0,7,1.0,LCNC,2008.0
+258,Sweden,LCNC,2019-06-01,2026-04-10,82.0,0,82.0,0,82.0,3.0,6,1.0,LCNC,2019.0
+259,Sweden,LCNC,2006-01-01,2026-04-10,243.0,1,181.0,1,204.0,3.0,11,1.0,LCNC,2006.0
+260,Sweden,Traditional Software Development,2011-08-01,2026-04-10,176.0,1,100.0,1,100.0,0.0,14,0.16666666666666666,Traditional Software Development,2011.0
+261,Sweden,LCNC,2006-10-01,2026-04-10,234.0,1,0.0,1,0.0,6.0,6,1.0,LCNC,2006.0
+262,Sweden,LCNC,2005-01-01,2026-04-10,255.0,1,24.0,1,24.0,3.0,12,1.0,LCNC,2005.0
+263,Sweden,LCNC,2012-01-01,2026-04-10,171.0,1,119.0,0,171.0,0.0,7,1.0,LCNC,2012.0
+264,Sweden,LCNC,2010-12-01,2026-04-10,184.0,1,138.0,0,184.0,3.0,6,0.75,LCNC,2010.0
+265,Sweden,Traditional Software Development,2006-02-01,2026-04-10,242.0,1,32.0,1,32.0,3.0,11,0.0,Traditional Software Development,2006.0
+266,Sweden,Mixed,2012-06-01,2026-04-10,166.0,1,0.0,1,0.0,6.0,12,0.6666666666666666,Excluded_Other_Mixed,2012.0
+267,Sweden,LCNC,2007-12-01,2026-04-10,220.0,0,220.0,0,220.0,3.0,3,1.0,LCNC,2007.0
+268,Sweden,Traditional Software Development,2011-01-01,2026-04-10,183.0,1,93.0,1,152.0,3.0,7,0.0,Traditional Software Development,2011.0
+269,Sweden,LCNC,2011-02-01,2026-04-10,182.0,1,35.0,1,167.0,3.0,8,1.0,LCNC,2011.0
+270,Sweden,Other,2000-01-01,2026-04-10,315.0,1,212.0,1,212.0,0.0,7,,Excluded_Other_Mixed,2000.0
+271,Sweden,Mixed,2007-11-01,2026-04-10,221.0,1,0.0,0,221.0,4.0,7,0.6666666666666666,Excluded_Other_Mixed,2007.0
+272,Sweden,Traditional Software Development,2009-08-01,2026-04-10,200.0,1,28.0,1,28.0,3.0,8,0.2,Traditional Software Development,2009.0
+273,Sweden,Traditional Software Development,2019-09-01,2024-05-01,56.0,0,56.0,0,56.0,3.0,3,0.0,Traditional Software Development,2019.0
+274,Sweden,Mixed,2012-06-01,2026-04-10,166.0,0,166.0,0,166.0,0.0,5,0.5,Excluded_Other_Mixed,2012.0
+275,Sweden,Mixed,2019-07-01,2026-04-10,81.0,0,81.0,0,81.0,1.0,6,0.6666666666666666,Excluded_Other_Mixed,2019.0
+276,Sweden,Traditional Software Development,2009-08-01,2024-07-01,179.0,0,179.0,0,179.0,3.0,7,0.25,Traditional Software Development,2009.0
+277,Sweden,LCNC,2004-01-01,2026-04-10,267.0,1,0.0,1,60.0,4.0,5,1.0,LCNC,2004.0
+278,Sweden,Mixed,1998-02-01,2026-04-10,338.0,1,273.0,1,273.0,0.0,10,0.3333333333333333,Excluded_Other_Mixed,1998.0
+279,Sweden,LCNC,2012-05-01,2026-04-10,167.0,1,155.0,1,155.0,3.0,5,1.0,LCNC,2012.0
+280,Sweden,LCNC,2007-06-01,2026-04-10,226.0,1,50.0,1,50.0,0.0,14,1.0,LCNC,2007.0
+281,Sweden,Mixed,2015-11-01,2026-04-10,125.0,0,125.0,0,125.0,3.0,5,0.5,Excluded_Other_Mixed,2015.0
+282,Sweden,LCNC,2015-09-01,2026-04-10,127.0,0,127.0,0,127.0,0.0,7,1.0,LCNC,2015.0
+283,Sweden,Other,2022-08-01,2026-04-10,44.0,0,44.0,0,44.0,1.0,3,,Excluded_Other_Mixed,2022.0
+284,Sweden,Other,2015-03-01,2025-05-01,122.0,0,122.0,0,122.0,3.0,2,,Excluded_Other_Mixed,2015.0
+285,Sweden,Traditional Software Development,2009-07-01,2026-04-10,201.0,1,8.0,1,8.0,3.0,11,0.0,Traditional Software Development,2009.0
+286,Sweden,Traditional Software Development,2012-01-01,2026-04-10,171.0,0,171.0,0,171.0,0.0,8,0.0,Traditional Software Development,2012.0
+287,Sweden,Traditional Software Development,2021-07-01,2025-08-01,49.0,0,49.0,0,49.0,3.0,2,0.0,Traditional Software Development,2021.0
+288,Sweden,Traditional Software Development,2015-01-01,2026-04-10,135.0,1,12.0,1,12.0,3.0,11,0.0,Traditional Software Development,2015.0
+289,Sweden,Traditional Software Development,2011-09-01,2026-04-10,175.0,1,0.0,0,175.0,4.0,5,0.0,Traditional Software Development,2011.0
+290,Sweden,Traditional Software Development,2017-07-01,2026-04-10,105.0,0,105.0,0,105.0,3.0,5,0.0,Traditional Software Development,2017.0
+291,Sweden,Traditional Software Development,2014-01-01,2026-04-10,147.0,1,31.0,1,31.0,2.0,6,0.0,Traditional Software Development,2014.0
+292,Sweden,Traditional Software Development,2018-07-01,2026-04-10,93.0,1,84.0,0,93.0,3.0,5,0.0,Traditional Software Development,2018.0
+293,Sweden,Traditional Software Development,2010-03-01,2026-04-10,193.0,1,80.0,1,80.0,3.0,12,0.0,Traditional Software Development,2010.0
+294,Sweden,Traditional Software Development,2015-08-01,2026-04-10,128.0,0,128.0,0,128.0,3.0,3,0.0,Traditional Software Development,2015.0
+295,Sweden,Traditional Software Development,2018-06-01,2026-04-10,94.0,1,78.0,0,94.0,3.0,3,0.0,Traditional Software Development,2018.0
+296,Sweden,Traditional Software Development,2016-12-01,2026-04-10,112.0,1,52.0,0,112.0,1.0,8,0.0,Traditional Software Development,2016.0
+297,Sweden,Traditional Software Development,2018-09-01,2026-04-10,91.0,0,91.0,0,91.0,3.0,3,0.0,Traditional Software Development,2018.0
+298,Sweden,Traditional Software Development,2016-12-01,2023-12-01,84.0,0,84.0,0,84.0,3.0,3,0.0,Traditional Software Development,2016.0
+299,Sweden,Traditional Software Development,2019-02-01,2026-04-10,86.0,1,0.0,0,86.0,3.0,4,0.0,Traditional Software Development,2019.0
+300,Sweden,Traditional Software Development,2019-10-01,2026-04-10,78.0,0,78.0,0,78.0,1.0,4,0.0,Traditional Software Development,2019.0
