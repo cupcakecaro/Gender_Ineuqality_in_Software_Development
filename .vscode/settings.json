@@ -1,0 +1,38 @@
+{
+  "latex-workshop.latex.outDir": "%DIR%/build",
+  "latex-workshop.latex.tools": [
+    {
+      "name": "latexmk_xelatex",
+      "command": "latexmk",
+      "args": [
+        "-xelatex",
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "-outdir=%OUTDIR%",
+        "%DOC%"
+      ]
+    },
+    {
+      "name": "copy_pdf_to_root",
+      "command": "bash",
+      "args": [
+        "-lc",
+        "cp \"%OUTDIR%/%DOCFILE%.pdf\" \"%DIR%/%DOCFILE%.pdf\""
+      ]
+    }
+  ],
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "latexmk (xelatex + copy pdf)",
+      "tools": [
+        "latexmk_xelatex",
+        "copy_pdf_to_root"
+      ]
+    }
+  ],
+  "latex-workshop.latex.recipe.default": "first",
+  "files.exclude": {
+    "Master Thesis/build": true
+  }
+}

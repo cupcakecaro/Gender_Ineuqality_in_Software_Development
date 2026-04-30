@@ -1,6 +1,8 @@
 """
-experience_parser.py
---------------------
+Legacy rule-based experience parser.
+
+Not used by the main workflow. The canonical entry point is notebooks/pipeline.ipynb.
+
 Parses raw LinkedIn experience text (manually copied) into structured job records.
 
 Each profile's 'experience' column contains a multiline block with all jobs.
@@ -18,7 +20,7 @@ This module segments that block into individual jobs and extracts:
   - position_in_career (1 = most recent; useful for trajectory analysis)
 
 Usage:
-    from src.parsing.experience_parser import parse_profiles
+    from src.legacy.parsing.experience_parser import parse_profiles
     df_jobs = parse_profiles("data/raw/raw_profiles.csv")
     df_jobs.to_csv("data/processed/parsed_jobs.csv", index=False)
 """
@@ -86,7 +88,7 @@ WORK_MODE_RE = re.compile(
 WORKMODE_ONLY_RE = re.compile(r"^(?:Remote|Hybrid|On-site)$", re.IGNORECASE)
 
 # Lines that look like a geographic location
-# e.g. "Bucharest, Romania · Hybrid", "Brasília, Distrito Federal, Brazil"
+# e.g. "Bucharest, Romania · Hybrid", "Brasilia, Distrito Federal, Brazil"
 LOCATION_LINE_RE = re.compile(
     r"^[\w\s\-áéíóúàèìòùâêîôûäëïöüñçÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÑÇ]+(,\s*[\w\s\-áéíóúàèìòùâêîôûäëïöüñçÁÉÍÓÚÀÈÌÒÙÂÊÎÔÛÄËÏÖÜÑÇ]+)+(\s*[·]\s*.*)?",
     re.UNICODE,
@@ -132,7 +134,7 @@ def _is_location_line(line: str) -> bool:
     """
     if WORK_MODE_RE.search(line):
         return True
-    # Comma-separated → likely a location ("Bucharest, Romania", "Brasília, D.F., Brazil")
+    # Comma-separated → likely a location ("Bucharest, Romania", "Brasilia, D.F., Brazil")
     # Guard against company names with commas by checking that all parts look
     # like place tokens (no camelCase, no acronyms beyond 2 chars)
     parts = [p.strip() for p in line.split(",") if p.strip()]
@@ -522,7 +524,7 @@ def parse_profiles(raw_csv_path: str) -> pd.DataFrame:
     Returns:
         DataFrame with one row per job, all extracted fields as columns.
     """
-    from src.preprocessing.clean_raw import clean_experience_text
+    from src.legacy.preprocessing.clean_raw import clean_experience_text
 
     df_raw = pd.read_csv(raw_csv_path, dtype={"profile_id": str})
 

@@ -4,3 +4,26 @@ __pycache__/
 *.pyc
 *.pyo
 .DS_Store
+
+# Analysis folder, just scrappy notes
+analysis
+
+# LaTeX build artifacts
+Master Thesis/build/
+Master Thesis/*.aux
+Master Thesis/chapters/*.aux
+Master Thesis/*.bbl
+Master Thesis/*.bcf
+Master Thesis/*.blg
+Master Thesis/*.fdb_latexmk
+Master Thesis/*.fls
+Master Thesis/*.lof
+Master Thesis/*.log
+Master Thesis/*.lot
+Master Thesis/*.nls
+Master Thesis/*.nlo
+Master Thesis/*.out
+Master Thesis/*.run.xml
+Master Thesis/*.synctex.gz
+Master Thesis/*.toc
+Master Thesis/*.xdv

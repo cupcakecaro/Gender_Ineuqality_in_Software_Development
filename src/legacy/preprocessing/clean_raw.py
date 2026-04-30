@@ -1,4 +1,8 @@
 """
+Legacy text pre-processing for raw LinkedIn experience blocks.
+
+Not used by the main workflow. The canonical entry point is notebooks/pipeline.ipynb.
+
 clean_raw.py
 ------------
 Pre-processing step applied to raw LinkedIn experience text BEFORE parsing.
@@ -12,7 +16,7 @@ Handles format-level noise that is independent of job structure:
      e.g. "2 yrs 4 mos2 yrs 4 mos"  (SENAI group header without dates)
 
 Usage:
-    from src.preprocessing.clean_raw import clean_experience_text, clean_profiles_df
+    from src.legacy.preprocessing.clean_raw import clean_experience_text, clean_profiles_df
 
     # Single text block
     cleaned = clean_experience_text(raw_text)
