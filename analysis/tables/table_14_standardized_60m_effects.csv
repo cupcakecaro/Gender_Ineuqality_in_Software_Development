@@ -1,7 +1,0 @@
-scope,outcome,method,estimate_rd,ci_low,ci_high,bootstrap_samples,n_profiles
-pooled,Outcome A (>=4),strata-standardized risk difference at 60m,0.007874360257727392,-0.12278186226572108,0.1232892455141094,180,257
-pooled,Outcome B (>=5),strata-standardized risk difference at 60m,0.07101555382488446,-0.03017439537383497,0.17718132897877148,180,257
-sweden,Outcome A (>=4),strata-standardized risk difference at 60m,-0.008934278391291968,-0.2112671594932385,0.2214357815577037,180,133
-sweden,Outcome B (>=5),strata-standardized risk difference at 60m,0.06135588393506947,-0.10601392600997002,0.21029380055508642,180,133
-romania,Outcome A (>=4),strata-standardized risk difference at 60m,0.025785204719797204,-0.13712462630663422,0.21114984775725382,180,124
-romania,Outcome B (>=5),strata-standardized risk difference at 60m,0.08130864469108076,-0.0772894649318859,0.2453884923507433,180,124
