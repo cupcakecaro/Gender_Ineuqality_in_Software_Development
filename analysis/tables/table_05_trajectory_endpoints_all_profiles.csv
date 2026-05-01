@@ -1,0 +1,10 @@
+profile_label,endpoint_job_label,n_profiles,median_endpoint_seniority
+LCNC,Low-Code/No-Code Development,33,3.0
+LCNC,Other,38,6.0
+Mixed,Low-Code/No-Code Development,17,3.0
+Mixed,Other,7,6.0
+Mixed,Traditional Software Development,9,3.0
+Other,Other,10,4.0
+Traditional Software Development,Low-Code/No-Code Development,4,4.5
+Traditional Software Development,Other,63,6.0
+Traditional Software Development,Traditional Software Development,119,3.0

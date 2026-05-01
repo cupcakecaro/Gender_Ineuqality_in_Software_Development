@@ -6,7 +6,7 @@ __pycache__/
 .DS_Store
 
 # Analysis folder, just scrappy notes
-analysis
+analysis/text
 
 # LaTeX build artifacts
 Master Thesis/build/
